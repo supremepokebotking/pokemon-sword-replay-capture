@@ -6,12 +6,14 @@ This is an old version (March 2020) pokemon-sword-replay-capture-mar-2020-versio
 # You can edit yolo_poke_runner.py if you want to use the 2020 yolov3 model.
 
 ## Features that may exist partially or in full
-# The ability to add dynamic voices to Pokemon matches. may need more work
-# The ability to play wild and network fights
+The ability to add dynamic voices to Pokemon matches. may need more work
+The ability to play wild and network fights
 
 ## Assume unfixed bugs. I saved this state based on a particular date and not state of the project.
 
-## Code Requires a video on how to use. Will make in the future.
+Need Help?
+Discord
+Current link: https://discord.gg/7cu6mrzH
 
 # To get started. Assuming you have an USB-HDMI Capture card such as Elgato Cam Link or another brand and the right arduino, you should be fine.
 
