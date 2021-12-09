@@ -1,0 +1,5 @@
+classes= 70
+train  = train.txt
+valid  = test.txt
+names = obj.names
+backup = backup

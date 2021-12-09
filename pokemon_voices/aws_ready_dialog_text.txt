@@ -1,0 +1,180 @@
+On No!!
+Go!!
+You defeated your opponent!!
+You lost!!
+The battle was canceled.!
+You're in charge!
+Go for it,!
+Just a little more! Hang in there,!
+Your opponent's weak! Get 'em,!
+Go on, !!
+I know you can do it!!
+Your opponent sent out!
+A very strong-looking!
+appeared!
+and!
+Enemy!
+Opposing!
+was dragged out!
+Grass grew to cover the battlefield!!
+I command grass to cover this arena!!
+The battlefield got weird!!
+The weebs are making the battlefield weird!!
+An electric current ran across the battlefield!!
+My shocking persona electrifies you!!
+Mist swirled around the battlefield!!
+Beautiful rose pedals blossom around me!!
+The weirdness disappeared from the battlefield!!
+Weebs begone! And the weirdness left!!
+The electricity disappeared from the battlefield.!
+My shocking pressence has left the field!
+The grass disappeared from the battlefield.!
+The grass is withering, oh no!
+The mist disappeared from the battlefield.!
+The rose pedals fall!!
+A heavy rain began to fall!!
+The sunlight turned extremely harsh!!
+Mysterious strong winds are protecting Flying-type Pokémon!!
+The sunlight is harsh!!
+It's raining!!
+The sandstorm is raging!!
+It's hailing!!
+The heavy rain has lifted!!
+The extremely harsh sunlight faded.!
+The mysterious strong winds have dissipated!!
+The harsh sunlight faded.!
+The rain stopped.!
+The sandstorm subsided.!
+The hail stopped.!
+The effects of the weather disappeared.!
+trick_regex = 'switched items with its target'!
+Creepy spiders drop their webs on you!
+Begone spiders!!
+Cobwebs are swept away!
+Thumb tacks are thrown on the ground!!
+Don't sit on that tack!!
+Spikes are blown away!!
+Poison needles surround your team! Don't get pricked!!
+Drug needles have been cleaned up!!
+Poison needles were removed!!
+OP Rocks are about to crush some dreams!
+The rocks have been removed, you may pass!
+You encountered a wild !!
+Whoa! A very strong-looking!
+leaped out!
+can no longer escape because it used No Retreat!!
+twisted the dimensions!!
+The twisted dimensions returned to normal!!
+Enter the bizare wonder dimension!!
+Wonder dimension is shattered!!
+Items are no use here! Engage Magic Room!!
+Magic Room dimension has ended!!
+I protect you from physical hits!!
+Now physical hits will hurt more!!
+Special attacks shall not pierce you!!
+Your check bounced, no more special protection!!
+The most OP of barriers has been summoned! The End Has Come!!
+OP Barrier gone, now is the time to attack!
+Mystic veil activate!!
+The mystic protection has left!!
+Incredible mist surrounds you all!!
+The sun has risen and the mist fled!!
+I give flight to thy feet!!
+Thy enemy has a strong gust!!
+Be cautious thy wind has left thee!!
+Thine enemy is slower, attack!!
+I protect thee from critical hits!!
+A strong chant protect thy enemies from criticals!!
+Thou protection from critical arts has ended!!
+The opposing team can now be hit with criticals!
+Flames flee from me!!
+The stregnth of fire has returned!
+Electricity\'s power was weakened!!
+The effects of Mud Sport have faded.!
+Gravity intensified!!
+Gravity returned to normal!!
+New York City sewers fill the area!!
+New York is banished from this land!!
+fainted!
+fainted! On Yea!
+Victory is at hand!!
+You hate to see it!!
+You love to see it!!
+went back to!
+withdrew!
+, that’s enough! Come back!!
+rose!!
+rose sharply!!
+rose drastically!!
+fell!!
+harshly fell!!
+severely fell!!
+stat changes were removed!!
+was not lowered!!
+stats were not lowered!!
+All stat changes were eliminated!!
+# critical hit!
+A critical hit!!
+# Used move!
+used!
+Cannot pierce my armor!!
+I've even faster now!!
+My False body protects me!!
+Getting serious!!
+Gonna block this!!
+Using haki to knock you out!!
+Don't get overwhelmed by their pressence!!
+Stop hitting yourself!!
+Ah, too crippled to attack!
+The flinch is strong in this one!
+Can't cut butter with an attack like that!!
+Didn't have anything better to use?!
+Sweet Chin Music!
+Strike!!
+Too Easy!!
+Why would you even try that attack?!
+You can't be serious!!
+Looks like someone is going to dizzy land!
+Came to its senses!!
+He came to play!!
+is going to surpass it's limits again!!
+was poisoned! Call the doc!!
+was cured of its poisoning! The medicine costs $500!
+was burned! Where's the ice pack?!
+burn was healed! Keep hand off stove!!
+was cured of paralysis! You can walk now!!
+is paralyzed! Grab the crutches!!
+was frozen solid! Ice Age!!
+thawed out! Can't freeze a tremor man!!
+fell asleep! Knock out by haki!!
+woke up! Must be the NYC Sewers!!
+Let's try!
+I'm going for it, Dynamax time!!
+Attack!
+Attack Slot!
+One!
+Two!
+Three!
+Four!
+Five!
+Six!
+Switch to!
+Switch to slot!
+Let's see how they like my !!
+Gonna check my team order real quick!!
+Readjusting my team positioning!!
+Checking out any stat changes!!
+Taking a quick peek!!
+Time to switch things up!!
+They won't see this coming!!
+Going to use my disaster power!!
+Let's see how they like this!!
+is going to light this place up with!
+going to drown this place with!
+going to shake this place with!
+going to!
+this place with!
+drown!
+shake!
+dazzle!
+Wash!

@@ -1,0 +1,3187 @@
+!
+!
+[VAR PKNAME(0000)] used Pound!
+The wild [VAR PKNAME(0000)] used Pound!
+The opposing [VAR PKNAME(0000)] used Pound!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Pound!
+[VAR PKNAME(0000)] used Karate Chop!
+The wild [VAR PKNAME(0000)] used Karate Chop!
+The opposing [VAR PKNAME(0000)] used Karate Chop!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Karate Chop!
+[VAR PKNAME(0000)] used Double Slap!
+The wild [VAR PKNAME(0000)] used Double Slap!
+The opposing [VAR PKNAME(0000)] used Double Slap!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Double Slap!
+[VAR PKNAME(0000)] used Comet Punch!
+The wild [VAR PKNAME(0000)] used Comet Punch!
+The opposing [VAR PKNAME(0000)] used Comet Punch!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Comet Punch!
+[VAR PKNAME(0000)] used Mega Punch!
+The wild [VAR PKNAME(0000)] used Mega Punch!
+The opposing [VAR PKNAME(0000)] used Mega Punch!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Mega Punch!
+[VAR PKNAME(0000)] used Pay Day!
+The wild [VAR PKNAME(0000)] used Pay Day!
+The opposing [VAR PKNAME(0000)] used Pay Day!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Pay Day!
+[VAR PKNAME(0000)] used Fire Punch!
+The wild [VAR PKNAME(0000)] used Fire Punch!
+The opposing [VAR PKNAME(0000)] used Fire Punch!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Fire Punch!
+[VAR PKNAME(0000)] used Ice Punch!
+The wild [VAR PKNAME(0000)] used Ice Punch!
+The opposing [VAR PKNAME(0000)] used Ice Punch!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Ice Punch!
+[VAR PKNAME(0000)] used Thunder Punch!
+The wild [VAR PKNAME(0000)] used Thunder Punch!
+The opposing [VAR PKNAME(0000)] used Thunder Punch!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Thunder Punch!
+[VAR PKNAME(0000)] used Scratch!
+The wild [VAR PKNAME(0000)] used Scratch!
+The opposing [VAR PKNAME(0000)] used Scratch!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Scratch!
+[VAR PKNAME(0000)] used Vise Grip!
+The wild [VAR PKNAME(0000)] used Vise Grip!
+The opposing [VAR PKNAME(0000)] used Vise Grip!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Vise Grip!
+[VAR PKNAME(0000)] used Guillotine!
+The wild [VAR PKNAME(0000)] used Guillotine!
+The opposing [VAR PKNAME(0000)] used Guillotine!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Guillotine!
+[VAR PKNAME(0000)] used Razor Wind!
+The wild [VAR PKNAME(0000)] used Razor Wind!
+The opposing [VAR PKNAME(0000)] used Razor Wind!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Razor Wind!
+[VAR PKNAME(0000)] used Swords Dance!
+The wild [VAR PKNAME(0000)] used Swords Dance!
+The opposing [VAR PKNAME(0000)] used Swords Dance!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Swords Dance!
+[VAR PKNAME(0000)] used Cut!
+The wild [VAR PKNAME(0000)] used Cut!
+The opposing [VAR PKNAME(0000)] used Cut!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Cut!
+[VAR PKNAME(0000)] used Gust!
+The wild [VAR PKNAME(0000)] used Gust!
+The opposing [VAR PKNAME(0000)] used Gust!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Gust!
+[VAR PKNAME(0000)] used Wing Attack!
+The wild [VAR PKNAME(0000)] used Wing Attack!
+The opposing [VAR PKNAME(0000)] used Wing Attack!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Wing Attack!
+[VAR PKNAME(0000)] used Whirlwind!
+The wild [VAR PKNAME(0000)] used Whirlwind!
+The opposing [VAR PKNAME(0000)] used Whirlwind!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Whirlwind!
+[VAR PKNAME(0000)] used Fly!
+The wild [VAR PKNAME(0000)] used Fly!
+The opposing [VAR PKNAME(0000)] used Fly!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Fly!
+[VAR PKNAME(0000)] used Bind!
+The wild [VAR PKNAME(0000)] used Bind!
+The opposing [VAR PKNAME(0000)] used Bind!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Bind!
+[VAR PKNAME(0000)] used Slam!
+The wild [VAR PKNAME(0000)] used Slam!
+The opposing [VAR PKNAME(0000)] used Slam!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Slam!
+[VAR PKNAME(0000)] used Vine Whip!
+The wild [VAR PKNAME(0000)] used Vine Whip!
+The opposing [VAR PKNAME(0000)] used Vine Whip!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Vine Whip!
+[VAR PKNAME(0000)] used Stomp!
+The wild [VAR PKNAME(0000)] used Stomp!
+The opposing [VAR PKNAME(0000)] used Stomp!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Stomp!
+[VAR PKNAME(0000)] used Double Kick!
+The wild [VAR PKNAME(0000)] used Double Kick!
+The opposing [VAR PKNAME(0000)] used Double Kick!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Double Kick!
+[VAR PKNAME(0000)] used Mega Kick!
+The wild [VAR PKNAME(0000)] used Mega Kick!
+The opposing [VAR PKNAME(0000)] used Mega Kick!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Mega Kick!
+[VAR PKNAME(0000)] used Jump Kick!
+The wild [VAR PKNAME(0000)] used Jump Kick!
+The opposing [VAR PKNAME(0000)] used Jump Kick!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Jump Kick!
+[VAR PKNAME(0000)] used Rolling Kick!
+The wild [VAR PKNAME(0000)] used Rolling Kick!
+The opposing [VAR PKNAME(0000)] used Rolling Kick!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Rolling Kick!
+[VAR PKNAME(0000)] used Sand Attack!
+The wild [VAR PKNAME(0000)] used Sand Attack!
+The opposing [VAR PKNAME(0000)] used Sand Attack!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Sand Attack!
+[VAR PKNAME(0000)] used Headbutt!
+The wild [VAR PKNAME(0000)] used Headbutt!
+The opposing [VAR PKNAME(0000)] used Headbutt!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Headbutt!
+[VAR PKNAME(0000)] used Horn Attack!
+The wild [VAR PKNAME(0000)] used Horn Attack!
+The opposing [VAR PKNAME(0000)] used Horn Attack!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Horn Attack!
+[VAR PKNAME(0000)] used Fury Attack!
+The wild [VAR PKNAME(0000)] used Fury Attack!
+The opposing [VAR PKNAME(0000)] used Fury Attack!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Fury Attack!
+[VAR PKNAME(0000)] used Horn Drill!
+The wild [VAR PKNAME(0000)] used Horn Drill!
+The opposing [VAR PKNAME(0000)] used Horn Drill!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Horn Drill!
+[VAR PKNAME(0000)] used Tackle!
+The wild [VAR PKNAME(0000)] used Tackle!
+The opposing [VAR PKNAME(0000)] used Tackle!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Tackle!
+[VAR PKNAME(0000)] used Body Slam!
+The wild [VAR PKNAME(0000)] used Body Slam!
+The opposing [VAR PKNAME(0000)] used Body Slam!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Body Slam!
+[VAR PKNAME(0000)] used Wrap!
+The wild [VAR PKNAME(0000)] used Wrap!
+The opposing [VAR PKNAME(0000)] used Wrap!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Wrap!
+[VAR PKNAME(0000)] used Take Down!
+The wild [VAR PKNAME(0000)] used Take Down!
+The opposing [VAR PKNAME(0000)] used Take Down!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Take Down!
+[VAR PKNAME(0000)] used Thrash!
+The wild [VAR PKNAME(0000)] used Thrash!
+The opposing [VAR PKNAME(0000)] used Thrash!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Thrash!
+[VAR PKNAME(0000)] used Double-Edge!
+The wild [VAR PKNAME(0000)] used Double-Edge!
+The opposing [VAR PKNAME(0000)] used Double-Edge!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Double-Edge!
+[VAR PKNAME(0000)] used Tail Whip!
+The wild [VAR PKNAME(0000)] used Tail Whip!
+The opposing [VAR PKNAME(0000)] used Tail Whip!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Tail Whip!
+[VAR PKNAME(0000)] used Poison Sting!
+The wild [VAR PKNAME(0000)] used Poison Sting!
+The opposing [VAR PKNAME(0000)] used Poison Sting!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Poison Sting!
+[VAR PKNAME(0000)] used Twineedle!
+The wild [VAR PKNAME(0000)] used Twineedle!
+The opposing [VAR PKNAME(0000)] used Twineedle!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Twineedle!
+[VAR PKNAME(0000)] used Pin Missile!
+The wild [VAR PKNAME(0000)] used Pin Missile!
+The opposing [VAR PKNAME(0000)] used Pin Missile!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Pin Missile!
+[VAR PKNAME(0000)] used Leer!
+The wild [VAR PKNAME(0000)] used Leer!
+The opposing [VAR PKNAME(0000)] used Leer!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Leer!
+[VAR PKNAME(0000)] used Bite!
+The wild [VAR PKNAME(0000)] used Bite!
+The opposing [VAR PKNAME(0000)] used Bite!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Bite!
+[VAR PKNAME(0000)] used Growl!
+The wild [VAR PKNAME(0000)] used Growl!
+The opposing [VAR PKNAME(0000)] used Growl!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Growl!
+[VAR PKNAME(0000)] used Roar!
+The wild [VAR PKNAME(0000)] used Roar!
+The opposing [VAR PKNAME(0000)] used Roar!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Roar!
+[VAR PKNAME(0000)] used Sing!
+The wild [VAR PKNAME(0000)] used Sing!
+The opposing [VAR PKNAME(0000)] used Sing!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Sing!
+[VAR PKNAME(0000)] used Supersonic!
+The wild [VAR PKNAME(0000)] used Supersonic!
+The opposing [VAR PKNAME(0000)] used Supersonic!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Supersonic!
+[VAR PKNAME(0000)] used Sonic Boom!
+The wild [VAR PKNAME(0000)] used Sonic Boom!
+The opposing [VAR PKNAME(0000)] used Sonic Boom!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Sonic Boom!
+[VAR PKNAME(0000)] used Disable!
+The wild [VAR PKNAME(0000)] used Disable!
+The opposing [VAR PKNAME(0000)] used Disable!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Disable!
+[VAR PKNAME(0000)] used Acid!
+The wild [VAR PKNAME(0000)] used Acid!
+The opposing [VAR PKNAME(0000)] used Acid!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Acid!
+[VAR PKNAME(0000)] used Ember!
+The wild [VAR PKNAME(0000)] used Ember!
+The opposing [VAR PKNAME(0000)] used Ember!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Ember!
+[VAR PKNAME(0000)] used Flamethrower!
+The wild [VAR PKNAME(0000)] used Flamethrower!
+The opposing [VAR PKNAME(0000)] used Flamethrower!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Flamethrower!
+[VAR PKNAME(0000)] used Mist!
+The wild [VAR PKNAME(0000)] used Mist!
+The opposing [VAR PKNAME(0000)] used Mist!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Mist!
+[VAR PKNAME(0000)] used Water Gun!
+The wild [VAR PKNAME(0000)] used Water Gun!
+The opposing [VAR PKNAME(0000)] used Water Gun!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Water Gun!
+[VAR PKNAME(0000)] used Hydro Pump!
+The wild [VAR PKNAME(0000)] used Hydro Pump!
+The opposing [VAR PKNAME(0000)] used Hydro Pump!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Hydro Pump!
+[VAR PKNAME(0000)] used Surf!
+The wild [VAR PKNAME(0000)] used Surf!
+The opposing [VAR PKNAME(0000)] used Surf!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Surf!
+[VAR PKNAME(0000)] used Ice Beam!
+The wild [VAR PKNAME(0000)] used Ice Beam!
+The opposing [VAR PKNAME(0000)] used Ice Beam!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Ice Beam!
+[VAR PKNAME(0000)] used Blizzard!
+The wild [VAR PKNAME(0000)] used Blizzard!
+The opposing [VAR PKNAME(0000)] used Blizzard!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Blizzard!
+[VAR PKNAME(0000)] used Psybeam!
+The wild [VAR PKNAME(0000)] used Psybeam!
+The opposing [VAR PKNAME(0000)] used Psybeam!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Psybeam!
+[VAR PKNAME(0000)] used Bubble Beam!
+The wild [VAR PKNAME(0000)] used Bubble Beam!
+The opposing [VAR PKNAME(0000)] used Bubble Beam!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Bubble Beam!
+[VAR PKNAME(0000)] used Aurora Beam!
+The wild [VAR PKNAME(0000)] used Aurora Beam!
+The opposing [VAR PKNAME(0000)] used Aurora Beam!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Aurora Beam!
+[VAR PKNAME(0000)] used Hyper Beam!
+The wild [VAR PKNAME(0000)] used Hyper Beam!
+The opposing [VAR PKNAME(0000)] used Hyper Beam!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Hyper Beam!
+[VAR PKNAME(0000)] used Peck!
+The wild [VAR PKNAME(0000)] used Peck!
+The opposing [VAR PKNAME(0000)] used Peck!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Peck!
+[VAR PKNAME(0000)] used Drill Peck!
+The wild [VAR PKNAME(0000)] used Drill Peck!
+The opposing [VAR PKNAME(0000)] used Drill Peck!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Drill Peck!
+[VAR PKNAME(0000)] used Submission!
+The wild [VAR PKNAME(0000)] used Submission!
+The opposing [VAR PKNAME(0000)] used Submission!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Submission!
+[VAR PKNAME(0000)] used Low Kick!
+The wild [VAR PKNAME(0000)] used Low Kick!
+The opposing [VAR PKNAME(0000)] used Low Kick!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Low Kick!
+[VAR PKNAME(0000)] used Counter!
+The wild [VAR PKNAME(0000)] used Counter!
+The opposing [VAR PKNAME(0000)] used Counter!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Counter!
+[VAR PKNAME(0000)] used Seismic Toss!
+The wild [VAR PKNAME(0000)] used Seismic Toss!
+The opposing [VAR PKNAME(0000)] used Seismic Toss!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Seismic Toss!
+[VAR PKNAME(0000)] used Strength!
+The wild [VAR PKNAME(0000)] used Strength!
+The opposing [VAR PKNAME(0000)] used Strength!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Strength!
+[VAR PKNAME(0000)] used Absorb!
+The wild [VAR PKNAME(0000)] used Absorb!
+The opposing [VAR PKNAME(0000)] used Absorb!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Absorb!
+[VAR PKNAME(0000)] used Mega Drain!
+The wild [VAR PKNAME(0000)] used Mega Drain!
+The opposing [VAR PKNAME(0000)] used Mega Drain!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Mega Drain!
+[VAR PKNAME(0000)] used Leech Seed!
+The wild [VAR PKNAME(0000)] used Leech Seed!
+The opposing [VAR PKNAME(0000)] used Leech Seed!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Leech Seed!
+[VAR PKNAME(0000)] used Growth!
+The wild [VAR PKNAME(0000)] used Growth!
+The opposing [VAR PKNAME(0000)] used Growth!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Growth!
+[VAR PKNAME(0000)] used Razor Leaf!
+The wild [VAR PKNAME(0000)] used Razor Leaf!
+The opposing [VAR PKNAME(0000)] used Razor Leaf!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Razor Leaf!
+[VAR PKNAME(0000)] used Solar Beam!
+The wild [VAR PKNAME(0000)] used Solar Beam!
+The opposing [VAR PKNAME(0000)] used Solar Beam!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Solar Beam!
+[VAR PKNAME(0000)] used Poison Powder!
+The wild [VAR PKNAME(0000)] used Poison Powder!
+The opposing [VAR PKNAME(0000)] used Poison Powder!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Poison Powder!
+[VAR PKNAME(0000)] used Stun Spore!
+The wild [VAR PKNAME(0000)] used Stun Spore!
+The opposing [VAR PKNAME(0000)] used Stun Spore!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Stun Spore!
+[VAR PKNAME(0000)] used Sleep Powder!
+The wild [VAR PKNAME(0000)] used Sleep Powder!
+The opposing [VAR PKNAME(0000)] used Sleep Powder!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Sleep Powder!
+[VAR PKNAME(0000)] used Petal Dance!
+The wild [VAR PKNAME(0000)] used Petal Dance!
+The opposing [VAR PKNAME(0000)] used Petal Dance!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Petal Dance!
+[VAR PKNAME(0000)] used String Shot!
+The wild [VAR PKNAME(0000)] used String Shot!
+The opposing [VAR PKNAME(0000)] used String Shot!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used String Shot!
+[VAR PKNAME(0000)] used Dragon Rage!
+The wild [VAR PKNAME(0000)] used Dragon Rage!
+The opposing [VAR PKNAME(0000)] used Dragon Rage!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Dragon Rage!
+[VAR PKNAME(0000)] used Fire Spin!
+The wild [VAR PKNAME(0000)] used Fire Spin!
+The opposing [VAR PKNAME(0000)] used Fire Spin!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Fire Spin!
+[VAR PKNAME(0000)] used Thunder Shock!
+The wild [VAR PKNAME(0000)] used Thunder Shock!
+The opposing [VAR PKNAME(0000)] used Thunder Shock!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Thunder Shock!
+[VAR PKNAME(0000)] used Thunderbolt!
+The wild [VAR PKNAME(0000)] used Thunderbolt!
+The opposing [VAR PKNAME(0000)] used Thunderbolt!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Thunderbolt!
+[VAR PKNAME(0000)] used Thunder Wave!
+The wild [VAR PKNAME(0000)] used Thunder Wave!
+The opposing [VAR PKNAME(0000)] used Thunder Wave!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Thunder Wave!
+[VAR PKNAME(0000)] used Thunder!
+The wild [VAR PKNAME(0000)] used Thunder!
+The opposing [VAR PKNAME(0000)] used Thunder!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Thunder!
+[VAR PKNAME(0000)] used Rock Throw!
+The wild [VAR PKNAME(0000)] used Rock Throw!
+The opposing [VAR PKNAME(0000)] used Rock Throw!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Rock Throw!
+[VAR PKNAME(0000)] used Earthquake!
+The wild [VAR PKNAME(0000)] used Earthquake!
+The opposing [VAR PKNAME(0000)] used Earthquake!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Earthquake!
+[VAR PKNAME(0000)] used Fissure!
+The wild [VAR PKNAME(0000)] used Fissure!
+The opposing [VAR PKNAME(0000)] used Fissure!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Fissure!
+[VAR PKNAME(0000)] used Dig!
+The wild [VAR PKNAME(0000)] used Dig!
+The opposing [VAR PKNAME(0000)] used Dig!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Dig!
+[VAR PKNAME(0000)] used Toxic!
+The wild [VAR PKNAME(0000)] used Toxic!
+The opposing [VAR PKNAME(0000)] used Toxic!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Toxic!
+[VAR PKNAME(0000)] used Confusion!
+The wild [VAR PKNAME(0000)] used Confusion!
+The opposing [VAR PKNAME(0000)] used Confusion!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Confusion!
+[VAR PKNAME(0000)] used Psychic!
+The wild [VAR PKNAME(0000)] used Psychic!
+The opposing [VAR PKNAME(0000)] used Psychic!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Psychic!
+[VAR PKNAME(0000)] used Hypnosis!
+The wild [VAR PKNAME(0000)] used Hypnosis!
+The opposing [VAR PKNAME(0000)] used Hypnosis!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Hypnosis!
+[VAR PKNAME(0000)] used Meditate!
+The wild [VAR PKNAME(0000)] used Meditate!
+The opposing [VAR PKNAME(0000)] used Meditate!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Meditate!
+[VAR PKNAME(0000)] used Agility!
+The wild [VAR PKNAME(0000)] used Agility!
+The opposing [VAR PKNAME(0000)] used Agility!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Agility!
+[VAR PKNAME(0000)] used Quick Attack!
+The wild [VAR PKNAME(0000)] used Quick Attack!
+The opposing [VAR PKNAME(0000)] used Quick Attack!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Quick Attack!
+[VAR PKNAME(0000)] used Rage!
+The wild [VAR PKNAME(0000)] used Rage!
+The opposing [VAR PKNAME(0000)] used Rage!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Rage!
+[VAR PKNAME(0000)] used Teleport!
+The wild [VAR PKNAME(0000)] used Teleport!
+The opposing [VAR PKNAME(0000)] used Teleport!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Teleport!
+[VAR PKNAME(0000)] used Night Shade!
+The wild [VAR PKNAME(0000)] used Night Shade!
+The opposing [VAR PKNAME(0000)] used Night Shade!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Night Shade!
+[VAR PKNAME(0000)] used Mimic!
+The wild [VAR PKNAME(0000)] used Mimic!
+The opposing [VAR PKNAME(0000)] used Mimic!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Mimic!
+[VAR PKNAME(0000)] used Screech!
+The wild [VAR PKNAME(0000)] used Screech!
+The opposing [VAR PKNAME(0000)] used Screech!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Screech!
+[VAR PKNAME(0000)] used Double Team!
+The wild [VAR PKNAME(0000)] used Double Team!
+The opposing [VAR PKNAME(0000)] used Double Team!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Double Team!
+[VAR PKNAME(0000)] used Recover!
+The wild [VAR PKNAME(0000)] used Recover!
+The opposing [VAR PKNAME(0000)] used Recover!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Recover!
+[VAR PKNAME(0000)] used Harden!
+The wild [VAR PKNAME(0000)] used Harden!
+The opposing [VAR PKNAME(0000)] used Harden!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Harden!
+[VAR PKNAME(0000)] used Minimize!
+The wild [VAR PKNAME(0000)] used Minimize!
+The opposing [VAR PKNAME(0000)] used Minimize!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Minimize!
+[VAR PKNAME(0000)] used Smokescreen!
+The wild [VAR PKNAME(0000)] used Smokescreen!
+The opposing [VAR PKNAME(0000)] used Smokescreen!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Smokescreen!
+[VAR PKNAME(0000)] used Confuse Ray!
+The wild [VAR PKNAME(0000)] used Confuse Ray!
+The opposing [VAR PKNAME(0000)] used Confuse Ray!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Confuse Ray!
+[VAR PKNAME(0000)] used Withdraw!
+The wild [VAR PKNAME(0000)] used Withdraw!
+The opposing [VAR PKNAME(0000)] used Withdraw!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Withdraw!
+[VAR PKNAME(0000)] used Defense Curl!
+The wild [VAR PKNAME(0000)] used Defense Curl!
+The opposing [VAR PKNAME(0000)] used Defense Curl!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Defense Curl!
+[VAR PKNAME(0000)] used Barrier!
+The wild [VAR PKNAME(0000)] used Barrier!
+The opposing [VAR PKNAME(0000)] used Barrier!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Barrier!
+[VAR PKNAME(0000)] used Light Screen!
+The wild [VAR PKNAME(0000)] used Light Screen!
+The opposing [VAR PKNAME(0000)] used Light Screen!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Light Screen!
+[VAR PKNAME(0000)] used Haze!
+The wild [VAR PKNAME(0000)] used Haze!
+The opposing [VAR PKNAME(0000)] used Haze!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Haze!
+[VAR PKNAME(0000)] used Reflect!
+The wild [VAR PKNAME(0000)] used Reflect!
+The opposing [VAR PKNAME(0000)] used Reflect!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Reflect!
+[VAR PKNAME(0000)] used Focus Energy!
+The wild [VAR PKNAME(0000)] used Focus Energy!
+The opposing [VAR PKNAME(0000)] used Focus Energy!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Focus Energy!
+[VAR PKNAME(0000)] used Bide!
+The wild [VAR PKNAME(0000)] used Bide!
+The opposing [VAR PKNAME(0000)] used Bide!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Bide!
+[VAR PKNAME(0000)] used Metronome!
+The wild [VAR PKNAME(0000)] used Metronome!
+The opposing [VAR PKNAME(0000)] used Metronome!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Metronome!
+[VAR PKNAME(0000)] used Mirror Move!
+The wild [VAR PKNAME(0000)] used Mirror Move!
+The opposing [VAR PKNAME(0000)] used Mirror Move!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Mirror Move!
+[VAR PKNAME(0000)] used Self-Destruct!
+The wild [VAR PKNAME(0000)] used Self-Destruct!
+The opposing [VAR PKNAME(0000)] used Self-Destruct!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Self-Destruct!
+[VAR PKNAME(0000)] used Egg Bomb!
+The wild [VAR PKNAME(0000)] used Egg Bomb!
+The opposing [VAR PKNAME(0000)] used Egg Bomb!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Egg Bomb!
+[VAR PKNAME(0000)] used Lick!
+The wild [VAR PKNAME(0000)] used Lick!
+The opposing [VAR PKNAME(0000)] used Lick!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Lick!
+[VAR PKNAME(0000)] used Smog!
+The wild [VAR PKNAME(0000)] used Smog!
+The opposing [VAR PKNAME(0000)] used Smog!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Smog!
+[VAR PKNAME(0000)] used Sludge!
+The wild [VAR PKNAME(0000)] used Sludge!
+The opposing [VAR PKNAME(0000)] used Sludge!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Sludge!
+[VAR PKNAME(0000)] used Bone Club!
+The wild [VAR PKNAME(0000)] used Bone Club!
+The opposing [VAR PKNAME(0000)] used Bone Club!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Bone Club!
+[VAR PKNAME(0000)] used Fire Blast!
+The wild [VAR PKNAME(0000)] used Fire Blast!
+The opposing [VAR PKNAME(0000)] used Fire Blast!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Fire Blast!
+[VAR PKNAME(0000)] used Waterfall!
+The wild [VAR PKNAME(0000)] used Waterfall!
+The opposing [VAR PKNAME(0000)] used Waterfall!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Waterfall!
+[VAR PKNAME(0000)] used Clamp!
+The wild [VAR PKNAME(0000)] used Clamp!
+The opposing [VAR PKNAME(0000)] used Clamp!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Clamp!
+[VAR PKNAME(0000)] used Swift!
+The wild [VAR PKNAME(0000)] used Swift!
+The opposing [VAR PKNAME(0000)] used Swift!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Swift!
+[VAR PKNAME(0000)] used Skull Bash!
+The wild [VAR PKNAME(0000)] used Skull Bash!
+The opposing [VAR PKNAME(0000)] used Skull Bash!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Skull Bash!
+[VAR PKNAME(0000)] used Spike Cannon!
+The wild [VAR PKNAME(0000)] used Spike Cannon!
+The opposing [VAR PKNAME(0000)] used Spike Cannon!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Spike Cannon!
+[VAR PKNAME(0000)] used Constrict!
+The wild [VAR PKNAME(0000)] used Constrict!
+The opposing [VAR PKNAME(0000)] used Constrict!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Constrict!
+[VAR PKNAME(0000)] used Amnesia!
+The wild [VAR PKNAME(0000)] used Amnesia!
+The opposing [VAR PKNAME(0000)] used Amnesia!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Amnesia!
+[VAR PKNAME(0000)] used Kinesis!
+The wild [VAR PKNAME(0000)] used Kinesis!
+The opposing [VAR PKNAME(0000)] used Kinesis!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Kinesis!
+[VAR PKNAME(0000)] used Soft-Boiled!
+The wild [VAR PKNAME(0000)] used Soft-Boiled!
+The opposing [VAR PKNAME(0000)] used Soft-Boiled!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Soft-Boiled!
+[VAR PKNAME(0000)] used High Jump Kick!
+The wild [VAR PKNAME(0000)] used High Jump Kick!
+The opposing [VAR PKNAME(0000)] used High Jump Kick!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used High Jump Kick!
+[VAR PKNAME(0000)] used Glare!
+The wild [VAR PKNAME(0000)] used Glare!
+The opposing [VAR PKNAME(0000)] used Glare!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Glare!
+[VAR PKNAME(0000)] used Dream Eater!
+The wild [VAR PKNAME(0000)] used Dream Eater!
+The opposing [VAR PKNAME(0000)] used Dream Eater!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Dream Eater!
+[VAR PKNAME(0000)] used Poison Gas!
+The wild [VAR PKNAME(0000)] used Poison Gas!
+The opposing [VAR PKNAME(0000)] used Poison Gas!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Poison Gas!
+[VAR PKNAME(0000)] used Barrage!
+The wild [VAR PKNAME(0000)] used Barrage!
+The opposing [VAR PKNAME(0000)] used Barrage!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Barrage!
+[VAR PKNAME(0000)] used Leech Life!
+The wild [VAR PKNAME(0000)] used Leech Life!
+The opposing [VAR PKNAME(0000)] used Leech Life!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Leech Life!
+[VAR PKNAME(0000)] used Lovely Kiss!
+The wild [VAR PKNAME(0000)] used Lovely Kiss!
+The opposing [VAR PKNAME(0000)] used Lovely Kiss!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Lovely Kiss!
+[VAR PKNAME(0000)] used Sky Attack!
+The wild [VAR PKNAME(0000)] used Sky Attack!
+The opposing [VAR PKNAME(0000)] used Sky Attack!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Sky Attack!
+[VAR PKNAME(0000)] used Transform!
+The wild [VAR PKNAME(0000)] used Transform!
+The opposing [VAR PKNAME(0000)] used Transform!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Transform!
+[VAR PKNAME(0000)] used Bubble!
+The wild [VAR PKNAME(0000)] used Bubble!
+The opposing [VAR PKNAME(0000)] used Bubble!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Bubble!
+[VAR PKNAME(0000)] used Dizzy Punch!
+The wild [VAR PKNAME(0000)] used Dizzy Punch!
+The opposing [VAR PKNAME(0000)] used Dizzy Punch!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Dizzy Punch!
+[VAR PKNAME(0000)] used Spore!
+The wild [VAR PKNAME(0000)] used Spore!
+The opposing [VAR PKNAME(0000)] used Spore!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Spore!
+[VAR PKNAME(0000)] used Flash!
+The wild [VAR PKNAME(0000)] used Flash!
+The opposing [VAR PKNAME(0000)] used Flash!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Flash!
+[VAR PKNAME(0000)] used Psywave!
+The wild [VAR PKNAME(0000)] used Psywave!
+The opposing [VAR PKNAME(0000)] used Psywave!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Psywave!
+[VAR PKNAME(0000)] used Splash!
+The wild [VAR PKNAME(0000)] used Splash!
+The opposing [VAR PKNAME(0000)] used Splash!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Splash!
+[VAR PKNAME(0000)] used Acid Armor!
+The wild [VAR PKNAME(0000)] used Acid Armor!
+The opposing [VAR PKNAME(0000)] used Acid Armor!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Acid Armor!
+[VAR PKNAME(0000)] used Crabhammer!
+The wild [VAR PKNAME(0000)] used Crabhammer!
+The opposing [VAR PKNAME(0000)] used Crabhammer!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Crabhammer!
+[VAR PKNAME(0000)] used Explosion!
+The wild [VAR PKNAME(0000)] used Explosion!
+The opposing [VAR PKNAME(0000)] used Explosion!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Explosion!
+[VAR PKNAME(0000)] used Fury Swipes!
+The wild [VAR PKNAME(0000)] used Fury Swipes!
+The opposing [VAR PKNAME(0000)] used Fury Swipes!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Fury Swipes!
+[VAR PKNAME(0000)] used Bonemerang!
+The wild [VAR PKNAME(0000)] used Bonemerang!
+The opposing [VAR PKNAME(0000)] used Bonemerang!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Bonemerang!
+[VAR PKNAME(0000)] used Rest!
+The wild [VAR PKNAME(0000)] used Rest!
+The opposing [VAR PKNAME(0000)] used Rest!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Rest!
+[VAR PKNAME(0000)] used Rock Slide!
+The wild [VAR PKNAME(0000)] used Rock Slide!
+The opposing [VAR PKNAME(0000)] used Rock Slide!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Rock Slide!
+[VAR PKNAME(0000)] used Hyper Fang!
+The wild [VAR PKNAME(0000)] used Hyper Fang!
+The opposing [VAR PKNAME(0000)] used Hyper Fang!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Hyper Fang!
+[VAR PKNAME(0000)] used Sharpen!
+The wild [VAR PKNAME(0000)] used Sharpen!
+The opposing [VAR PKNAME(0000)] used Sharpen!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Sharpen!
+[VAR PKNAME(0000)] used Conversion!
+The wild [VAR PKNAME(0000)] used Conversion!
+The opposing [VAR PKNAME(0000)] used Conversion!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Conversion!
+[VAR PKNAME(0000)] used Tri Attack!
+The wild [VAR PKNAME(0000)] used Tri Attack!
+The opposing [VAR PKNAME(0000)] used Tri Attack!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Tri Attack!
+[VAR PKNAME(0000)] used Super Fang!
+The wild [VAR PKNAME(0000)] used Super Fang!
+The opposing [VAR PKNAME(0000)] used Super Fang!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Super Fang!
+[VAR PKNAME(0000)] used Slash!
+The wild [VAR PKNAME(0000)] used Slash!
+The opposing [VAR PKNAME(0000)] used Slash!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Slash!
+[VAR PKNAME(0000)] used Substitute!
+The wild [VAR PKNAME(0000)] used Substitute!
+The opposing [VAR PKNAME(0000)] used Substitute!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Substitute!
+[VAR PKNAME(0000)] used Struggle!
+The wild [VAR PKNAME(0000)] used Struggle!
+The opposing [VAR PKNAME(0000)] used Struggle!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Struggle!
+[VAR PKNAME(0000)] used Sketch!
+The wild [VAR PKNAME(0000)] used Sketch!
+The opposing [VAR PKNAME(0000)] used Sketch!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Sketch!
+[VAR PKNAME(0000)] used Triple Kick!
+The wild [VAR PKNAME(0000)] used Triple Kick!
+The opposing [VAR PKNAME(0000)] used Triple Kick!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Triple Kick!
+[VAR PKNAME(0000)] used Thief!
+The wild [VAR PKNAME(0000)] used Thief!
+The opposing [VAR PKNAME(0000)] used Thief!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Thief!
+[VAR PKNAME(0000)] used Spider Web!
+The wild [VAR PKNAME(0000)] used Spider Web!
+The opposing [VAR PKNAME(0000)] used Spider Web!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Spider Web!
+[VAR PKNAME(0000)] used Mind Reader!
+The wild [VAR PKNAME(0000)] used Mind Reader!
+The opposing [VAR PKNAME(0000)] used Mind Reader!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Mind Reader!
+[VAR PKNAME(0000)] used Nightmare!
+The wild [VAR PKNAME(0000)] used Nightmare!
+The opposing [VAR PKNAME(0000)] used Nightmare!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Nightmare!
+[VAR PKNAME(0000)] used Flame Wheel!
+The wild [VAR PKNAME(0000)] used Flame Wheel!
+The opposing [VAR PKNAME(0000)] used Flame Wheel!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Flame Wheel!
+[VAR PKNAME(0000)] used Snore!
+The wild [VAR PKNAME(0000)] used Snore!
+The opposing [VAR PKNAME(0000)] used Snore!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Snore!
+[VAR PKNAME(0000)] used Curse!
+The wild [VAR PKNAME(0000)] used Curse!
+The opposing [VAR PKNAME(0000)] used Curse!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Curse!
+[VAR PKNAME(0000)] used Flail!
+The wild [VAR PKNAME(0000)] used Flail!
+The opposing [VAR PKNAME(0000)] used Flail!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Flail!
+[VAR PKNAME(0000)] used Conversion 2!
+The wild [VAR PKNAME(0000)] used Conversion 2!
+The opposing [VAR PKNAME(0000)] used Conversion 2!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Conversion 2!
+[VAR PKNAME(0000)] used Aeroblast!
+The wild [VAR PKNAME(0000)] used Aeroblast!
+The opposing [VAR PKNAME(0000)] used Aeroblast!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Aeroblast!
+[VAR PKNAME(0000)] used Cotton Spore!
+The wild [VAR PKNAME(0000)] used Cotton Spore!
+The opposing [VAR PKNAME(0000)] used Cotton Spore!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Cotton Spore!
+[VAR PKNAME(0000)] used Reversal!
+The wild [VAR PKNAME(0000)] used Reversal!
+The opposing [VAR PKNAME(0000)] used Reversal!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Reversal!
+[VAR PKNAME(0000)] used Spite!
+The wild [VAR PKNAME(0000)] used Spite!
+The opposing [VAR PKNAME(0000)] used Spite!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Spite!
+[VAR PKNAME(0000)] used Powder Snow!
+The wild [VAR PKNAME(0000)] used Powder Snow!
+The opposing [VAR PKNAME(0000)] used Powder Snow!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Powder Snow!
+[VAR PKNAME(0000)] used Protect!
+The wild [VAR PKNAME(0000)] used Protect!
+The opposing [VAR PKNAME(0000)] used Protect!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Protect!
+[VAR PKNAME(0000)] used Mach Punch!
+The wild [VAR PKNAME(0000)] used Mach Punch!
+The opposing [VAR PKNAME(0000)] used Mach Punch!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Mach Punch!
+[VAR PKNAME(0000)] used Scary Face!
+The wild [VAR PKNAME(0000)] used Scary Face!
+The opposing [VAR PKNAME(0000)] used Scary Face!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Scary Face!
+[VAR PKNAME(0000)] used Feint Attack!
+The wild [VAR PKNAME(0000)] used Feint Attack!
+The opposing [VAR PKNAME(0000)] used Feint Attack!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Feint Attack!
+[VAR PKNAME(0000)] used Sweet Kiss!
+The wild [VAR PKNAME(0000)] used Sweet Kiss!
+The opposing [VAR PKNAME(0000)] used Sweet Kiss!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Sweet Kiss!
+[VAR PKNAME(0000)] used Belly Drum!
+The wild [VAR PKNAME(0000)] used Belly Drum!
+The opposing [VAR PKNAME(0000)] used Belly Drum!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Belly Drum!
+[VAR PKNAME(0000)] used Sludge Bomb!
+The wild [VAR PKNAME(0000)] used Sludge Bomb!
+The opposing [VAR PKNAME(0000)] used Sludge Bomb!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Sludge Bomb!
+[VAR PKNAME(0000)] used Mud-Slap!
+The wild [VAR PKNAME(0000)] used Mud-Slap!
+The opposing [VAR PKNAME(0000)] used Mud-Slap!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Mud-Slap!
+[VAR PKNAME(0000)] used Octazooka!
+The wild [VAR PKNAME(0000)] used Octazooka!
+The opposing [VAR PKNAME(0000)] used Octazooka!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Octazooka!
+[VAR PKNAME(0000)] used Spikes!
+The wild [VAR PKNAME(0000)] used Spikes!
+The opposing [VAR PKNAME(0000)] used Spikes!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Spikes!
+[VAR PKNAME(0000)] used Zap Cannon!
+The wild [VAR PKNAME(0000)] used Zap Cannon!
+The opposing [VAR PKNAME(0000)] used Zap Cannon!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Zap Cannon!
+[VAR PKNAME(0000)] used Foresight!
+The wild [VAR PKNAME(0000)] used Foresight!
+The opposing [VAR PKNAME(0000)] used Foresight!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Foresight!
+[VAR PKNAME(0000)] used Destiny Bond!
+The wild [VAR PKNAME(0000)] used Destiny Bond!
+The opposing [VAR PKNAME(0000)] used Destiny Bond!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Destiny Bond!
+[VAR PKNAME(0000)] used Perish Song!
+The wild [VAR PKNAME(0000)] used Perish Song!
+The opposing [VAR PKNAME(0000)] used Perish Song!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Perish Song!
+[VAR PKNAME(0000)] used Icy Wind!
+The wild [VAR PKNAME(0000)] used Icy Wind!
+The opposing [VAR PKNAME(0000)] used Icy Wind!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Icy Wind!
+[VAR PKNAME(0000)] used Detect!
+The wild [VAR PKNAME(0000)] used Detect!
+The opposing [VAR PKNAME(0000)] used Detect!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Detect!
+[VAR PKNAME(0000)] used Bone Rush!
+The wild [VAR PKNAME(0000)] used Bone Rush!
+The opposing [VAR PKNAME(0000)] used Bone Rush!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Bone Rush!
+[VAR PKNAME(0000)] used Lock-On!
+The wild [VAR PKNAME(0000)] used Lock-On!
+The opposing [VAR PKNAME(0000)] used Lock-On!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Lock-On!
+[VAR PKNAME(0000)] used Outrage!
+The wild [VAR PKNAME(0000)] used Outrage!
+The opposing [VAR PKNAME(0000)] used Outrage!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Outrage!
+[VAR PKNAME(0000)] used Sandstorm!
+The wild [VAR PKNAME(0000)] used Sandstorm!
+The opposing [VAR PKNAME(0000)] used Sandstorm!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Sandstorm!
+[VAR PKNAME(0000)] used Giga Drain!
+The wild [VAR PKNAME(0000)] used Giga Drain!
+The opposing [VAR PKNAME(0000)] used Giga Drain!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Giga Drain!
+[VAR PKNAME(0000)] used Endure!
+The wild [VAR PKNAME(0000)] used Endure!
+The opposing [VAR PKNAME(0000)] used Endure!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Endure!
+[VAR PKNAME(0000)] used Charm!
+The wild [VAR PKNAME(0000)] used Charm!
+The opposing [VAR PKNAME(0000)] used Charm!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Charm!
+[VAR PKNAME(0000)] used Rollout!
+The wild [VAR PKNAME(0000)] used Rollout!
+The opposing [VAR PKNAME(0000)] used Rollout!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Rollout!
+[VAR PKNAME(0000)] used False Swipe!
+The wild [VAR PKNAME(0000)] used False Swipe!
+The opposing [VAR PKNAME(0000)] used False Swipe!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used False Swipe!
+[VAR PKNAME(0000)] used Swagger!
+The wild [VAR PKNAME(0000)] used Swagger!
+The opposing [VAR PKNAME(0000)] used Swagger!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Swagger!
+[VAR PKNAME(0000)] used Milk Drink!
+The wild [VAR PKNAME(0000)] used Milk Drink!
+The opposing [VAR PKNAME(0000)] used Milk Drink!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Milk Drink!
+[VAR PKNAME(0000)] used Spark!
+The wild [VAR PKNAME(0000)] used Spark!
+The opposing [VAR PKNAME(0000)] used Spark!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Spark!
+[VAR PKNAME(0000)] used Fury Cutter!
+The wild [VAR PKNAME(0000)] used Fury Cutter!
+The opposing [VAR PKNAME(0000)] used Fury Cutter!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Fury Cutter!
+[VAR PKNAME(0000)] used Steel Wing!
+The wild [VAR PKNAME(0000)] used Steel Wing!
+The opposing [VAR PKNAME(0000)] used Steel Wing!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Steel Wing!
+[VAR PKNAME(0000)] used Mean Look!
+The wild [VAR PKNAME(0000)] used Mean Look!
+The opposing [VAR PKNAME(0000)] used Mean Look!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Mean Look!
+[VAR PKNAME(0000)] used Attract!
+The wild [VAR PKNAME(0000)] used Attract!
+The opposing [VAR PKNAME(0000)] used Attract!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Attract!
+[VAR PKNAME(0000)] used Sleep Talk!
+The wild [VAR PKNAME(0000)] used Sleep Talk!
+The opposing [VAR PKNAME(0000)] used Sleep Talk!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Sleep Talk!
+[VAR PKNAME(0000)] used Heal Bell!
+The wild [VAR PKNAME(0000)] used Heal Bell!
+The opposing [VAR PKNAME(0000)] used Heal Bell!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Heal Bell!
+[VAR PKNAME(0000)] used Return!
+The wild [VAR PKNAME(0000)] used Return!
+The opposing [VAR PKNAME(0000)] used Return!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Return!
+[VAR PKNAME(0000)] used Present!
+The wild [VAR PKNAME(0000)] used Present!
+The opposing [VAR PKNAME(0000)] used Present!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Present!
+[VAR PKNAME(0000)] used Frustration!
+The wild [VAR PKNAME(0000)] used Frustration!
+The opposing [VAR PKNAME(0000)] used Frustration!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Frustration!
+[VAR PKNAME(0000)] used Safeguard!
+The wild [VAR PKNAME(0000)] used Safeguard!
+The opposing [VAR PKNAME(0000)] used Safeguard!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Safeguard!
+[VAR PKNAME(0000)] used Pain Split!
+The wild [VAR PKNAME(0000)] used Pain Split!
+The opposing [VAR PKNAME(0000)] used Pain Split!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Pain Split!
+[VAR PKNAME(0000)] used Sacred Fire!
+The wild [VAR PKNAME(0000)] used Sacred Fire!
+The opposing [VAR PKNAME(0000)] used Sacred Fire!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Sacred Fire!
+[VAR PKNAME(0000)] used Magnitude!
+The wild [VAR PKNAME(0000)] used Magnitude!
+The opposing [VAR PKNAME(0000)] used Magnitude!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Magnitude!
+[VAR PKNAME(0000)] used Dynamic Punch!
+The wild [VAR PKNAME(0000)] used Dynamic Punch!
+The opposing [VAR PKNAME(0000)] used Dynamic Punch!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Dynamic Punch!
+[VAR PKNAME(0000)] used Megahorn!
+The wild [VAR PKNAME(0000)] used Megahorn!
+The opposing [VAR PKNAME(0000)] used Megahorn!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Megahorn!
+[VAR PKNAME(0000)] used Dragon Breath!
+The wild [VAR PKNAME(0000)] used Dragon Breath!
+The opposing [VAR PKNAME(0000)] used Dragon Breath!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Dragon Breath!
+[VAR PKNAME(0000)] used Baton Pass!
+The wild [VAR PKNAME(0000)] used Baton Pass!
+The opposing [VAR PKNAME(0000)] used Baton Pass!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Baton Pass!
+[VAR PKNAME(0000)] used Encore!
+The wild [VAR PKNAME(0000)] used Encore!
+The opposing [VAR PKNAME(0000)] used Encore!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Encore!
+[VAR PKNAME(0000)] used Pursuit!
+The wild [VAR PKNAME(0000)] used Pursuit!
+The opposing [VAR PKNAME(0000)] used Pursuit!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Pursuit!
+[VAR PKNAME(0000)] used Rapid Spin!
+The wild [VAR PKNAME(0000)] used Rapid Spin!
+The opposing [VAR PKNAME(0000)] used Rapid Spin!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Rapid Spin!
+[VAR PKNAME(0000)] used Sweet Scent!
+The wild [VAR PKNAME(0000)] used Sweet Scent!
+The opposing [VAR PKNAME(0000)] used Sweet Scent!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Sweet Scent!
+[VAR PKNAME(0000)] used Iron Tail!
+The wild [VAR PKNAME(0000)] used Iron Tail!
+The opposing [VAR PKNAME(0000)] used Iron Tail!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Iron Tail!
+[VAR PKNAME(0000)] used Metal Claw!
+The wild [VAR PKNAME(0000)] used Metal Claw!
+The opposing [VAR PKNAME(0000)] used Metal Claw!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Metal Claw!
+[VAR PKNAME(0000)] used Vital Throw!
+The wild [VAR PKNAME(0000)] used Vital Throw!
+The opposing [VAR PKNAME(0000)] used Vital Throw!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Vital Throw!
+[VAR PKNAME(0000)] used Morning Sun!
+The wild [VAR PKNAME(0000)] used Morning Sun!
+The opposing [VAR PKNAME(0000)] used Morning Sun!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Morning Sun!
+[VAR PKNAME(0000)] used Synthesis!
+The wild [VAR PKNAME(0000)] used Synthesis!
+The opposing [VAR PKNAME(0000)] used Synthesis!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Synthesis!
+[VAR PKNAME(0000)] used Moonlight!
+The wild [VAR PKNAME(0000)] used Moonlight!
+The opposing [VAR PKNAME(0000)] used Moonlight!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Moonlight!
+[VAR PKNAME(0000)] used Hidden Power!
+The wild [VAR PKNAME(0000)] used Hidden Power!
+The opposing [VAR PKNAME(0000)] used Hidden Power!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Hidden Power!
+[VAR PKNAME(0000)] used Cross Chop!
+The wild [VAR PKNAME(0000)] used Cross Chop!
+The opposing [VAR PKNAME(0000)] used Cross Chop!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Cross Chop!
+[VAR PKNAME(0000)] used Twister!
+The wild [VAR PKNAME(0000)] used Twister!
+The opposing [VAR PKNAME(0000)] used Twister!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Twister!
+[VAR PKNAME(0000)] used Rain Dance!
+The wild [VAR PKNAME(0000)] used Rain Dance!
+The opposing [VAR PKNAME(0000)] used Rain Dance!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Rain Dance!
+[VAR PKNAME(0000)] used Sunny Day!
+The wild [VAR PKNAME(0000)] used Sunny Day!
+The opposing [VAR PKNAME(0000)] used Sunny Day!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Sunny Day!
+[VAR PKNAME(0000)] used Crunch!
+The wild [VAR PKNAME(0000)] used Crunch!
+The opposing [VAR PKNAME(0000)] used Crunch!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Crunch!
+[VAR PKNAME(0000)] used Mirror Coat!
+The wild [VAR PKNAME(0000)] used Mirror Coat!
+The opposing [VAR PKNAME(0000)] used Mirror Coat!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Mirror Coat!
+[VAR PKNAME(0000)] used Psych Up!
+The wild [VAR PKNAME(0000)] used Psych Up!
+The opposing [VAR PKNAME(0000)] used Psych Up!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Psych Up!
+[VAR PKNAME(0000)] used Extreme Speed!
+The wild [VAR PKNAME(0000)] used Extreme Speed!
+The opposing [VAR PKNAME(0000)] used Extreme Speed!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Extreme Speed!
+[VAR PKNAME(0000)] used Ancient Power!
+The wild [VAR PKNAME(0000)] used Ancient Power!
+The opposing [VAR PKNAME(0000)] used Ancient Power!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Ancient Power!
+[VAR PKNAME(0000)] used Shadow Ball!
+The wild [VAR PKNAME(0000)] used Shadow Ball!
+The opposing [VAR PKNAME(0000)] used Shadow Ball!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Shadow Ball!
+[VAR PKNAME(0000)] used Future Sight!
+The wild [VAR PKNAME(0000)] used Future Sight!
+The opposing [VAR PKNAME(0000)] used Future Sight!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Future Sight!
+[VAR PKNAME(0000)] used Rock Smash!
+The wild [VAR PKNAME(0000)] used Rock Smash!
+The opposing [VAR PKNAME(0000)] used Rock Smash!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Rock Smash!
+[VAR PKNAME(0000)] used Whirlpool!
+The wild [VAR PKNAME(0000)] used Whirlpool!
+The opposing [VAR PKNAME(0000)] used Whirlpool!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Whirlpool!
+[VAR PKNAME(0000)] used Beat Up!
+The wild [VAR PKNAME(0000)] used Beat Up!
+The opposing [VAR PKNAME(0000)] used Beat Up!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Beat Up!
+[VAR PKNAME(0000)] used Fake Out!
+The wild [VAR PKNAME(0000)] used Fake Out!
+The opposing [VAR PKNAME(0000)] used Fake Out!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Fake Out!
+[VAR PKNAME(0000)] used Uproar!
+The wild [VAR PKNAME(0000)] used Uproar!
+The opposing [VAR PKNAME(0000)] used Uproar!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Uproar!
+[VAR PKNAME(0000)] used Stockpile!
+The wild [VAR PKNAME(0000)] used Stockpile!
+The opposing [VAR PKNAME(0000)] used Stockpile!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Stockpile!
+[VAR PKNAME(0000)] used Spit Up!
+The wild [VAR PKNAME(0000)] used Spit Up!
+The opposing [VAR PKNAME(0000)] used Spit Up!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Spit Up!
+[VAR PKNAME(0000)] used Swallow!
+The wild [VAR PKNAME(0000)] used Swallow!
+The opposing [VAR PKNAME(0000)] used Swallow!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Swallow!
+[VAR PKNAME(0000)] used Heat Wave!
+The wild [VAR PKNAME(0000)] used Heat Wave!
+The opposing [VAR PKNAME(0000)] used Heat Wave!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Heat Wave!
+[VAR PKNAME(0000)] used Hail!
+The wild [VAR PKNAME(0000)] used Hail!
+The opposing [VAR PKNAME(0000)] used Hail!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Hail!
+[VAR PKNAME(0000)] used Torment!
+The wild [VAR PKNAME(0000)] used Torment!
+The opposing [VAR PKNAME(0000)] used Torment!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Torment!
+[VAR PKNAME(0000)] used Flatter!
+The wild [VAR PKNAME(0000)] used Flatter!
+The opposing [VAR PKNAME(0000)] used Flatter!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Flatter!
+[VAR PKNAME(0000)] used Will-O-Wisp!
+The wild [VAR PKNAME(0000)] used Will-O-Wisp!
+The opposing [VAR PKNAME(0000)] used Will-O-Wisp!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Will-O-Wisp!
+[VAR PKNAME(0000)] used Memento!
+The wild [VAR PKNAME(0000)] used Memento!
+The opposing [VAR PKNAME(0000)] used Memento!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Memento!
+[VAR PKNAME(0000)] used Facade!
+The wild [VAR PKNAME(0000)] used Facade!
+The opposing [VAR PKNAME(0000)] used Facade!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Facade!
+[VAR PKNAME(0000)] used Focus Punch!
+The wild [VAR PKNAME(0000)] used Focus Punch!
+The opposing [VAR PKNAME(0000)] used Focus Punch!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Focus Punch!
+[VAR PKNAME(0000)] used Smelling Salts!
+The wild [VAR PKNAME(0000)] used Smelling Salts!
+The opposing [VAR PKNAME(0000)] used Smelling Salts!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Smelling Salts!
+[VAR PKNAME(0000)] used Follow Me!
+The wild [VAR PKNAME(0000)] used Follow Me!
+The opposing [VAR PKNAME(0000)] used Follow Me!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Follow Me!
+[VAR PKNAME(0000)] used Nature Power!
+The wild [VAR PKNAME(0000)] used Nature Power!
+The opposing [VAR PKNAME(0000)] used Nature Power!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Nature Power!
+[VAR PKNAME(0000)] used Charge!
+The wild [VAR PKNAME(0000)] used Charge!
+The opposing [VAR PKNAME(0000)] used Charge!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Charge!
+[VAR PKNAME(0000)] used Taunt!
+The wild [VAR PKNAME(0000)] used Taunt!
+The opposing [VAR PKNAME(0000)] used Taunt!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Taunt!
+[VAR PKNAME(0000)] used Helping Hand!
+The wild [VAR PKNAME(0000)] used Helping Hand!
+The opposing [VAR PKNAME(0000)] used Helping Hand!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Helping Hand!
+[VAR PKNAME(0000)] used Trick!
+The wild [VAR PKNAME(0000)] used Trick!
+The opposing [VAR PKNAME(0000)] used Trick!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Trick!
+[VAR PKNAME(0000)] used Role Play!
+The wild [VAR PKNAME(0000)] used Role Play!
+The opposing [VAR PKNAME(0000)] used Role Play!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Role Play!
+[VAR PKNAME(0000)] used Wish!
+The wild [VAR PKNAME(0000)] used Wish!
+The opposing [VAR PKNAME(0000)] used Wish!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Wish!
+[VAR PKNAME(0000)] used Assist!
+The wild [VAR PKNAME(0000)] used Assist!
+The opposing [VAR PKNAME(0000)] used Assist!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Assist!
+[VAR PKNAME(0000)] used Ingrain!
+The wild [VAR PKNAME(0000)] used Ingrain!
+The opposing [VAR PKNAME(0000)] used Ingrain!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Ingrain!
+[VAR PKNAME(0000)] used Superpower!
+The wild [VAR PKNAME(0000)] used Superpower!
+The opposing [VAR PKNAME(0000)] used Superpower!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Superpower!
+[VAR PKNAME(0000)] used Magic Coat!
+The wild [VAR PKNAME(0000)] used Magic Coat!
+The opposing [VAR PKNAME(0000)] used Magic Coat!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Magic Coat!
+[VAR PKNAME(0000)] used Recycle!
+The wild [VAR PKNAME(0000)] used Recycle!
+The opposing [VAR PKNAME(0000)] used Recycle!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Recycle!
+[VAR PKNAME(0000)] used Revenge!
+The wild [VAR PKNAME(0000)] used Revenge!
+The opposing [VAR PKNAME(0000)] used Revenge!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Revenge!
+[VAR PKNAME(0000)] used Brick Break!
+The wild [VAR PKNAME(0000)] used Brick Break!
+The opposing [VAR PKNAME(0000)] used Brick Break!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Brick Break!
+[VAR PKNAME(0000)] used Yawn!
+The wild [VAR PKNAME(0000)] used Yawn!
+The opposing [VAR PKNAME(0000)] used Yawn!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Yawn!
+[VAR PKNAME(0000)] used Knock Off!
+The wild [VAR PKNAME(0000)] used Knock Off!
+The opposing [VAR PKNAME(0000)] used Knock Off!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Knock Off!
+[VAR PKNAME(0000)] used Endeavor!
+The wild [VAR PKNAME(0000)] used Endeavor!
+The opposing [VAR PKNAME(0000)] used Endeavor!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Endeavor!
+[VAR PKNAME(0000)] used Eruption!
+The wild [VAR PKNAME(0000)] used Eruption!
+The opposing [VAR PKNAME(0000)] used Eruption!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Eruption!
+[VAR PKNAME(0000)] used Skill Swap!
+The wild [VAR PKNAME(0000)] used Skill Swap!
+The opposing [VAR PKNAME(0000)] used Skill Swap!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Skill Swap!
+[VAR PKNAME(0000)] used Imprison!
+The wild [VAR PKNAME(0000)] used Imprison!
+The opposing [VAR PKNAME(0000)] used Imprison!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Imprison!
+[VAR PKNAME(0000)] used Refresh!
+The wild [VAR PKNAME(0000)] used Refresh!
+The opposing [VAR PKNAME(0000)] used Refresh!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Refresh!
+[VAR PKNAME(0000)] used Grudge!
+The wild [VAR PKNAME(0000)] used Grudge!
+The opposing [VAR PKNAME(0000)] used Grudge!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Grudge!
+[VAR PKNAME(0000)] used Snatch!
+The wild [VAR PKNAME(0000)] used Snatch!
+The opposing [VAR PKNAME(0000)] used Snatch!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Snatch!
+[VAR PKNAME(0000)] used Secret Power!
+The wild [VAR PKNAME(0000)] used Secret Power!
+The opposing [VAR PKNAME(0000)] used Secret Power!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Secret Power!
+[VAR PKNAME(0000)] used Dive!
+The wild [VAR PKNAME(0000)] used Dive!
+The opposing [VAR PKNAME(0000)] used Dive!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Dive!
+[VAR PKNAME(0000)] used Arm Thrust!
+The wild [VAR PKNAME(0000)] used Arm Thrust!
+The opposing [VAR PKNAME(0000)] used Arm Thrust!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Arm Thrust!
+[VAR PKNAME(0000)] used Camouflage!
+The wild [VAR PKNAME(0000)] used Camouflage!
+The opposing [VAR PKNAME(0000)] used Camouflage!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Camouflage!
+[VAR PKNAME(0000)] used Tail Glow!
+The wild [VAR PKNAME(0000)] used Tail Glow!
+The opposing [VAR PKNAME(0000)] used Tail Glow!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Tail Glow!
+[VAR PKNAME(0000)] used Luster Purge!
+The wild [VAR PKNAME(0000)] used Luster Purge!
+The opposing [VAR PKNAME(0000)] used Luster Purge!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Luster Purge!
+[VAR PKNAME(0000)] used Mist Ball!
+The wild [VAR PKNAME(0000)] used Mist Ball!
+The opposing [VAR PKNAME(0000)] used Mist Ball!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Mist Ball!
+[VAR PKNAME(0000)] used Feather Dance!
+The wild [VAR PKNAME(0000)] used Feather Dance!
+The opposing [VAR PKNAME(0000)] used Feather Dance!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Feather Dance!
+[VAR PKNAME(0000)] used Teeter Dance!
+The wild [VAR PKNAME(0000)] used Teeter Dance!
+The opposing [VAR PKNAME(0000)] used Teeter Dance!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Teeter Dance!
+[VAR PKNAME(0000)] used Blaze Kick!
+The wild [VAR PKNAME(0000)] used Blaze Kick!
+The opposing [VAR PKNAME(0000)] used Blaze Kick!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Blaze Kick!
+[VAR PKNAME(0000)] used Mud Sport!
+The wild [VAR PKNAME(0000)] used Mud Sport!
+The opposing [VAR PKNAME(0000)] used Mud Sport!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Mud Sport!
+[VAR PKNAME(0000)] used Ice Ball!
+The wild [VAR PKNAME(0000)] used Ice Ball!
+The opposing [VAR PKNAME(0000)] used Ice Ball!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Ice Ball!
+[VAR PKNAME(0000)] used Needle Arm!
+The wild [VAR PKNAME(0000)] used Needle Arm!
+The opposing [VAR PKNAME(0000)] used Needle Arm!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Needle Arm!
+[VAR PKNAME(0000)] used Slack Off!
+The wild [VAR PKNAME(0000)] used Slack Off!
+The opposing [VAR PKNAME(0000)] used Slack Off!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Slack Off!
+[VAR PKNAME(0000)] used Hyper Voice!
+The wild [VAR PKNAME(0000)] used Hyper Voice!
+The opposing [VAR PKNAME(0000)] used Hyper Voice!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Hyper Voice!
+[VAR PKNAME(0000)] used Poison Fang!
+The wild [VAR PKNAME(0000)] used Poison Fang!
+The opposing [VAR PKNAME(0000)] used Poison Fang!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Poison Fang!
+[VAR PKNAME(0000)] used Crush Claw!
+The wild [VAR PKNAME(0000)] used Crush Claw!
+The opposing [VAR PKNAME(0000)] used Crush Claw!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Crush Claw!
+[VAR PKNAME(0000)] used Blast Burn!
+The wild [VAR PKNAME(0000)] used Blast Burn!
+The opposing [VAR PKNAME(0000)] used Blast Burn!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Blast Burn!
+[VAR PKNAME(0000)] used Hydro Cannon!
+The wild [VAR PKNAME(0000)] used Hydro Cannon!
+The opposing [VAR PKNAME(0000)] used Hydro Cannon!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Hydro Cannon!
+[VAR PKNAME(0000)] used Meteor Mash!
+The wild [VAR PKNAME(0000)] used Meteor Mash!
+The opposing [VAR PKNAME(0000)] used Meteor Mash!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Meteor Mash!
+[VAR PKNAME(0000)] used Astonish!
+The wild [VAR PKNAME(0000)] used Astonish!
+The opposing [VAR PKNAME(0000)] used Astonish!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Astonish!
+[VAR PKNAME(0000)] used Weather Ball!
+The wild [VAR PKNAME(0000)] used Weather Ball!
+The opposing [VAR PKNAME(0000)] used Weather Ball!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Weather Ball!
+[VAR PKNAME(0000)] used Aromatherapy!
+The wild [VAR PKNAME(0000)] used Aromatherapy!
+The opposing [VAR PKNAME(0000)] used Aromatherapy!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Aromatherapy!
+[VAR PKNAME(0000)] used Fake Tears!
+The wild [VAR PKNAME(0000)] used Fake Tears!
+The opposing [VAR PKNAME(0000)] used Fake Tears!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Fake Tears!
+[VAR PKNAME(0000)] used Air Cutter!
+The wild [VAR PKNAME(0000)] used Air Cutter!
+The opposing [VAR PKNAME(0000)] used Air Cutter!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Air Cutter!
+[VAR PKNAME(0000)] used Overheat!
+The wild [VAR PKNAME(0000)] used Overheat!
+The opposing [VAR PKNAME(0000)] used Overheat!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Overheat!
+[VAR PKNAME(0000)] used Odor Sleuth!
+The wild [VAR PKNAME(0000)] used Odor Sleuth!
+The opposing [VAR PKNAME(0000)] used Odor Sleuth!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Odor Sleuth!
+[VAR PKNAME(0000)] used Rock Tomb!
+The wild [VAR PKNAME(0000)] used Rock Tomb!
+The opposing [VAR PKNAME(0000)] used Rock Tomb!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Rock Tomb!
+[VAR PKNAME(0000)] used Silver Wind!
+The wild [VAR PKNAME(0000)] used Silver Wind!
+The opposing [VAR PKNAME(0000)] used Silver Wind!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Silver Wind!
+[VAR PKNAME(0000)] used Metal Sound!
+The wild [VAR PKNAME(0000)] used Metal Sound!
+The opposing [VAR PKNAME(0000)] used Metal Sound!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Metal Sound!
+[VAR PKNAME(0000)] used Grass Whistle!
+The wild [VAR PKNAME(0000)] used Grass Whistle!
+The opposing [VAR PKNAME(0000)] used Grass Whistle!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Grass Whistle!
+[VAR PKNAME(0000)] used Tickle!
+The wild [VAR PKNAME(0000)] used Tickle!
+The opposing [VAR PKNAME(0000)] used Tickle!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Tickle!
+[VAR PKNAME(0000)] used Cosmic Power!
+The wild [VAR PKNAME(0000)] used Cosmic Power!
+The opposing [VAR PKNAME(0000)] used Cosmic Power!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Cosmic Power!
+[VAR PKNAME(0000)] used Water Spout!
+The wild [VAR PKNAME(0000)] used Water Spout!
+The opposing [VAR PKNAME(0000)] used Water Spout!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Water Spout!
+[VAR PKNAME(0000)] used Signal Beam!
+The wild [VAR PKNAME(0000)] used Signal Beam!
+The opposing [VAR PKNAME(0000)] used Signal Beam!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Signal Beam!
+[VAR PKNAME(0000)] used Shadow Punch!
+The wild [VAR PKNAME(0000)] used Shadow Punch!
+The opposing [VAR PKNAME(0000)] used Shadow Punch!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Shadow Punch!
+[VAR PKNAME(0000)] used Extrasensory!
+The wild [VAR PKNAME(0000)] used Extrasensory!
+The opposing [VAR PKNAME(0000)] used Extrasensory!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Extrasensory!
+[VAR PKNAME(0000)] used Sky Uppercut!
+The wild [VAR PKNAME(0000)] used Sky Uppercut!
+The opposing [VAR PKNAME(0000)] used Sky Uppercut!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Sky Uppercut!
+[VAR PKNAME(0000)] used Sand Tomb!
+The wild [VAR PKNAME(0000)] used Sand Tomb!
+The opposing [VAR PKNAME(0000)] used Sand Tomb!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Sand Tomb!
+[VAR PKNAME(0000)] used Sheer Cold!
+The wild [VAR PKNAME(0000)] used Sheer Cold!
+The opposing [VAR PKNAME(0000)] used Sheer Cold!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Sheer Cold!
+[VAR PKNAME(0000)] used Muddy Water!
+The wild [VAR PKNAME(0000)] used Muddy Water!
+The opposing [VAR PKNAME(0000)] used Muddy Water!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Muddy Water!
+[VAR PKNAME(0000)] used Bullet Seed!
+The wild [VAR PKNAME(0000)] used Bullet Seed!
+The opposing [VAR PKNAME(0000)] used Bullet Seed!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Bullet Seed!
+[VAR PKNAME(0000)] used Aerial Ace!
+The wild [VAR PKNAME(0000)] used Aerial Ace!
+The opposing [VAR PKNAME(0000)] used Aerial Ace!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Aerial Ace!
+[VAR PKNAME(0000)] used Icicle Spear!
+The wild [VAR PKNAME(0000)] used Icicle Spear!
+The opposing [VAR PKNAME(0000)] used Icicle Spear!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Icicle Spear!
+[VAR PKNAME(0000)] used Iron Defense!
+The wild [VAR PKNAME(0000)] used Iron Defense!
+The opposing [VAR PKNAME(0000)] used Iron Defense!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Iron Defense!
+[VAR PKNAME(0000)] used Block!
+The wild [VAR PKNAME(0000)] used Block!
+The opposing [VAR PKNAME(0000)] used Block!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Block!
+[VAR PKNAME(0000)] used Howl!
+The wild [VAR PKNAME(0000)] used Howl!
+The opposing [VAR PKNAME(0000)] used Howl!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Howl!
+[VAR PKNAME(0000)] used Dragon Claw!
+The wild [VAR PKNAME(0000)] used Dragon Claw!
+The opposing [VAR PKNAME(0000)] used Dragon Claw!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Dragon Claw!
+[VAR PKNAME(0000)] used Frenzy Plant!
+The wild [VAR PKNAME(0000)] used Frenzy Plant!
+The opposing [VAR PKNAME(0000)] used Frenzy Plant!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Frenzy Plant!
+[VAR PKNAME(0000)] used Bulk Up!
+The wild [VAR PKNAME(0000)] used Bulk Up!
+The opposing [VAR PKNAME(0000)] used Bulk Up!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Bulk Up!
+[VAR PKNAME(0000)] used Bounce!
+The wild [VAR PKNAME(0000)] used Bounce!
+The opposing [VAR PKNAME(0000)] used Bounce!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Bounce!
+[VAR PKNAME(0000)] used Mud Shot!
+The wild [VAR PKNAME(0000)] used Mud Shot!
+The opposing [VAR PKNAME(0000)] used Mud Shot!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Mud Shot!
+[VAR PKNAME(0000)] used Poison Tail!
+The wild [VAR PKNAME(0000)] used Poison Tail!
+The opposing [VAR PKNAME(0000)] used Poison Tail!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Poison Tail!
+[VAR PKNAME(0000)] used Covet!
+The wild [VAR PKNAME(0000)] used Covet!
+The opposing [VAR PKNAME(0000)] used Covet!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Covet!
+[VAR PKNAME(0000)] used Volt Tackle!
+The wild [VAR PKNAME(0000)] used Volt Tackle!
+The opposing [VAR PKNAME(0000)] used Volt Tackle!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Volt Tackle!
+[VAR PKNAME(0000)] used Magical Leaf!
+The wild [VAR PKNAME(0000)] used Magical Leaf!
+The opposing [VAR PKNAME(0000)] used Magical Leaf!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Magical Leaf!
+[VAR PKNAME(0000)] used Water Sport!
+The wild [VAR PKNAME(0000)] used Water Sport!
+The opposing [VAR PKNAME(0000)] used Water Sport!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Water Sport!
+[VAR PKNAME(0000)] used Calm Mind!
+The wild [VAR PKNAME(0000)] used Calm Mind!
+The opposing [VAR PKNAME(0000)] used Calm Mind!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Calm Mind!
+[VAR PKNAME(0000)] used Leaf Blade!
+The wild [VAR PKNAME(0000)] used Leaf Blade!
+The opposing [VAR PKNAME(0000)] used Leaf Blade!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Leaf Blade!
+[VAR PKNAME(0000)] used Dragon Dance!
+The wild [VAR PKNAME(0000)] used Dragon Dance!
+The opposing [VAR PKNAME(0000)] used Dragon Dance!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Dragon Dance!
+[VAR PKNAME(0000)] used Rock Blast!
+The wild [VAR PKNAME(0000)] used Rock Blast!
+The opposing [VAR PKNAME(0000)] used Rock Blast!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Rock Blast!
+[VAR PKNAME(0000)] used Shock Wave!
+The wild [VAR PKNAME(0000)] used Shock Wave!
+The opposing [VAR PKNAME(0000)] used Shock Wave!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Shock Wave!
+[VAR PKNAME(0000)] used Water Pulse!
+The wild [VAR PKNAME(0000)] used Water Pulse!
+The opposing [VAR PKNAME(0000)] used Water Pulse!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Water Pulse!
+[VAR PKNAME(0000)] used Doom Desire!
+The wild [VAR PKNAME(0000)] used Doom Desire!
+The opposing [VAR PKNAME(0000)] used Doom Desire!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Doom Desire!
+[VAR PKNAME(0000)] used Psycho Boost!
+The wild [VAR PKNAME(0000)] used Psycho Boost!
+The opposing [VAR PKNAME(0000)] used Psycho Boost!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Psycho Boost!
+[VAR PKNAME(0000)] used Roost!
+The wild [VAR PKNAME(0000)] used Roost!
+The opposing [VAR PKNAME(0000)] used Roost!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Roost!
+[VAR PKNAME(0000)] used Gravity!
+The wild [VAR PKNAME(0000)] used Gravity!
+The opposing [VAR PKNAME(0000)] used Gravity!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Gravity!
+[VAR PKNAME(0000)] used Miracle Eye!
+The wild [VAR PKNAME(0000)] used Miracle Eye!
+The opposing [VAR PKNAME(0000)] used Miracle Eye!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Miracle Eye!
+[VAR PKNAME(0000)] used Wake-Up Slap!
+The wild [VAR PKNAME(0000)] used Wake-Up Slap!
+The opposing [VAR PKNAME(0000)] used Wake-Up Slap!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Wake-Up Slap!
+[VAR PKNAME(0000)] used Hammer Arm!
+The wild [VAR PKNAME(0000)] used Hammer Arm!
+The opposing [VAR PKNAME(0000)] used Hammer Arm!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Hammer Arm!
+[VAR PKNAME(0000)] used Gyro Ball!
+The wild [VAR PKNAME(0000)] used Gyro Ball!
+The opposing [VAR PKNAME(0000)] used Gyro Ball!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Gyro Ball!
+[VAR PKNAME(0000)] used Healing Wish!
+The wild [VAR PKNAME(0000)] used Healing Wish!
+The opposing [VAR PKNAME(0000)] used Healing Wish!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Healing Wish!
+[VAR PKNAME(0000)] used Brine!
+The wild [VAR PKNAME(0000)] used Brine!
+The opposing [VAR PKNAME(0000)] used Brine!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Brine!
+[VAR PKNAME(0000)] used Natural Gift!
+The wild [VAR PKNAME(0000)] used Natural Gift!
+The opposing [VAR PKNAME(0000)] used Natural Gift!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Natural Gift!
+[VAR PKNAME(0000)] used Feint!
+The wild [VAR PKNAME(0000)] used Feint!
+The opposing [VAR PKNAME(0000)] used Feint!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Feint!
+[VAR PKNAME(0000)] used Pluck!
+The wild [VAR PKNAME(0000)] used Pluck!
+The opposing [VAR PKNAME(0000)] used Pluck!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Pluck!
+[VAR PKNAME(0000)] used Tailwind!
+The wild [VAR PKNAME(0000)] used Tailwind!
+The opposing [VAR PKNAME(0000)] used Tailwind!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Tailwind!
+[VAR PKNAME(0000)] used Acupressure!
+The wild [VAR PKNAME(0000)] used Acupressure!
+The opposing [VAR PKNAME(0000)] used Acupressure!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Acupressure!
+[VAR PKNAME(0000)] used Metal Burst!
+The wild [VAR PKNAME(0000)] used Metal Burst!
+The opposing [VAR PKNAME(0000)] used Metal Burst!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Metal Burst!
+[VAR PKNAME(0000)] used U-turn!
+The wild [VAR PKNAME(0000)] used U-turn!
+The opposing [VAR PKNAME(0000)] used U-turn!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used U-turn!
+[VAR PKNAME(0000)] used Close Combat!
+The wild [VAR PKNAME(0000)] used Close Combat!
+The opposing [VAR PKNAME(0000)] used Close Combat!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Close Combat!
+[VAR PKNAME(0000)] used Payback!
+The wild [VAR PKNAME(0000)] used Payback!
+The opposing [VAR PKNAME(0000)] used Payback!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Payback!
+[VAR PKNAME(0000)] used Assurance!
+The wild [VAR PKNAME(0000)] used Assurance!
+The opposing [VAR PKNAME(0000)] used Assurance!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Assurance!
+[VAR PKNAME(0000)] used Embargo!
+The wild [VAR PKNAME(0000)] used Embargo!
+The opposing [VAR PKNAME(0000)] used Embargo!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Embargo!
+[VAR PKNAME(0000)] used Fling!
+The wild [VAR PKNAME(0000)] used Fling!
+The opposing [VAR PKNAME(0000)] used Fling!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Fling!
+[VAR PKNAME(0000)] used Psycho Shift!
+The wild [VAR PKNAME(0000)] used Psycho Shift!
+The opposing [VAR PKNAME(0000)] used Psycho Shift!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Psycho Shift!
+[VAR PKNAME(0000)] used Trump Card!
+The wild [VAR PKNAME(0000)] used Trump Card!
+The opposing [VAR PKNAME(0000)] used Trump Card!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Trump Card!
+[VAR PKNAME(0000)] used Heal Block!
+The wild [VAR PKNAME(0000)] used Heal Block!
+The opposing [VAR PKNAME(0000)] used Heal Block!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Heal Block!
+[VAR PKNAME(0000)] used Wring Out!
+The wild [VAR PKNAME(0000)] used Wring Out!
+The opposing [VAR PKNAME(0000)] used Wring Out!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Wring Out!
+[VAR PKNAME(0000)] used Power Trick!
+The wild [VAR PKNAME(0000)] used Power Trick!
+The opposing [VAR PKNAME(0000)] used Power Trick!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Power Trick!
+[VAR PKNAME(0000)] used Gastro Acid!
+The wild [VAR PKNAME(0000)] used Gastro Acid!
+The opposing [VAR PKNAME(0000)] used Gastro Acid!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Gastro Acid!
+[VAR PKNAME(0000)] used Lucky Chant!
+The wild [VAR PKNAME(0000)] used Lucky Chant!
+The opposing [VAR PKNAME(0000)] used Lucky Chant!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Lucky Chant!
+[VAR PKNAME(0000)] used Me First!
+The wild [VAR PKNAME(0000)] used Me First!
+The opposing [VAR PKNAME(0000)] used Me First!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Me First!
+[VAR PKNAME(0000)] used Copycat!
+The wild [VAR PKNAME(0000)] used Copycat!
+The opposing [VAR PKNAME(0000)] used Copycat!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Copycat!
+[VAR PKNAME(0000)] used Power Swap!
+The wild [VAR PKNAME(0000)] used Power Swap!
+The opposing [VAR PKNAME(0000)] used Power Swap!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Power Swap!
+[VAR PKNAME(0000)] used Guard Swap!
+The wild [VAR PKNAME(0000)] used Guard Swap!
+The opposing [VAR PKNAME(0000)] used Guard Swap!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Guard Swap!
+[VAR PKNAME(0000)] used Punishment!
+The wild [VAR PKNAME(0000)] used Punishment!
+The opposing [VAR PKNAME(0000)] used Punishment!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Punishment!
+[VAR PKNAME(0000)] used Last Resort!
+The wild [VAR PKNAME(0000)] used Last Resort!
+The opposing [VAR PKNAME(0000)] used Last Resort!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Last Resort!
+[VAR PKNAME(0000)] used Worry Seed!
+The wild [VAR PKNAME(0000)] used Worry Seed!
+The opposing [VAR PKNAME(0000)] used Worry Seed!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Worry Seed!
+[VAR PKNAME(0000)] used Sucker Punch!
+The wild [VAR PKNAME(0000)] used Sucker Punch!
+The opposing [VAR PKNAME(0000)] used Sucker Punch!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Sucker Punch!
+[VAR PKNAME(0000)] used Toxic Spikes!
+The wild [VAR PKNAME(0000)] used Toxic Spikes!
+The opposing [VAR PKNAME(0000)] used Toxic Spikes!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Toxic Spikes!
+[VAR PKNAME(0000)] used Heart Swap!
+The wild [VAR PKNAME(0000)] used Heart Swap!
+The opposing [VAR PKNAME(0000)] used Heart Swap!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Heart Swap!
+[VAR PKNAME(0000)] used Aqua Ring!
+The wild [VAR PKNAME(0000)] used Aqua Ring!
+The opposing [VAR PKNAME(0000)] used Aqua Ring!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Aqua Ring!
+[VAR PKNAME(0000)] used Magnet Rise!
+The wild [VAR PKNAME(0000)] used Magnet Rise!
+The opposing [VAR PKNAME(0000)] used Magnet Rise!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Magnet Rise!
+[VAR PKNAME(0000)] used Flare Blitz!
+The wild [VAR PKNAME(0000)] used Flare Blitz!
+The opposing [VAR PKNAME(0000)] used Flare Blitz!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Flare Blitz!
+[VAR PKNAME(0000)] used Force Palm!
+The wild [VAR PKNAME(0000)] used Force Palm!
+The opposing [VAR PKNAME(0000)] used Force Palm!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Force Palm!
+[VAR PKNAME(0000)] used Aura Sphere!
+The wild [VAR PKNAME(0000)] used Aura Sphere!
+The opposing [VAR PKNAME(0000)] used Aura Sphere!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Aura Sphere!
+[VAR PKNAME(0000)] used Rock Polish!
+The wild [VAR PKNAME(0000)] used Rock Polish!
+The opposing [VAR PKNAME(0000)] used Rock Polish!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Rock Polish!
+[VAR PKNAME(0000)] used Poison Jab!
+The wild [VAR PKNAME(0000)] used Poison Jab!
+The opposing [VAR PKNAME(0000)] used Poison Jab!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Poison Jab!
+[VAR PKNAME(0000)] used Dark Pulse!
+The wild [VAR PKNAME(0000)] used Dark Pulse!
+The opposing [VAR PKNAME(0000)] used Dark Pulse!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Dark Pulse!
+[VAR PKNAME(0000)] used Night Slash!
+The wild [VAR PKNAME(0000)] used Night Slash!
+The opposing [VAR PKNAME(0000)] used Night Slash!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Night Slash!
+[VAR PKNAME(0000)] used Aqua Tail!
+The wild [VAR PKNAME(0000)] used Aqua Tail!
+The opposing [VAR PKNAME(0000)] used Aqua Tail!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Aqua Tail!
+[VAR PKNAME(0000)] used Seed Bomb!
+The wild [VAR PKNAME(0000)] used Seed Bomb!
+The opposing [VAR PKNAME(0000)] used Seed Bomb!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Seed Bomb!
+[VAR PKNAME(0000)] used Air Slash!
+The wild [VAR PKNAME(0000)] used Air Slash!
+The opposing [VAR PKNAME(0000)] used Air Slash!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Air Slash!
+[VAR PKNAME(0000)] used X-Scissor!
+The wild [VAR PKNAME(0000)] used X-Scissor!
+The opposing [VAR PKNAME(0000)] used X-Scissor!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used X-Scissor!
+[VAR PKNAME(0000)] used Bug Buzz!
+The wild [VAR PKNAME(0000)] used Bug Buzz!
+The opposing [VAR PKNAME(0000)] used Bug Buzz!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Bug Buzz!
+[VAR PKNAME(0000)] used Dragon Pulse!
+The wild [VAR PKNAME(0000)] used Dragon Pulse!
+The opposing [VAR PKNAME(0000)] used Dragon Pulse!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Dragon Pulse!
+[VAR PKNAME(0000)] used Dragon Rush!
+The wild [VAR PKNAME(0000)] used Dragon Rush!
+The opposing [VAR PKNAME(0000)] used Dragon Rush!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Dragon Rush!
+[VAR PKNAME(0000)] used Power Gem!
+The wild [VAR PKNAME(0000)] used Power Gem!
+The opposing [VAR PKNAME(0000)] used Power Gem!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Power Gem!
+[VAR PKNAME(0000)] used Drain Punch!
+The wild [VAR PKNAME(0000)] used Drain Punch!
+The opposing [VAR PKNAME(0000)] used Drain Punch!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Drain Punch!
+[VAR PKNAME(0000)] used Vacuum Wave!
+The wild [VAR PKNAME(0000)] used Vacuum Wave!
+The opposing [VAR PKNAME(0000)] used Vacuum Wave!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Vacuum Wave!
+[VAR PKNAME(0000)] used Focus Blast!
+The wild [VAR PKNAME(0000)] used Focus Blast!
+The opposing [VAR PKNAME(0000)] used Focus Blast!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Focus Blast!
+[VAR PKNAME(0000)] used Energy Ball!
+The wild [VAR PKNAME(0000)] used Energy Ball!
+The opposing [VAR PKNAME(0000)] used Energy Ball!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Energy Ball!
+[VAR PKNAME(0000)] used Brave Bird!
+The wild [VAR PKNAME(0000)] used Brave Bird!
+The opposing [VAR PKNAME(0000)] used Brave Bird!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Brave Bird!
+[VAR PKNAME(0000)] used Earth Power!
+The wild [VAR PKNAME(0000)] used Earth Power!
+The opposing [VAR PKNAME(0000)] used Earth Power!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Earth Power!
+[VAR PKNAME(0000)] used Switcheroo!
+The wild [VAR PKNAME(0000)] used Switcheroo!
+The opposing [VAR PKNAME(0000)] used Switcheroo!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Switcheroo!
+[VAR PKNAME(0000)] used Giga Impact!
+The wild [VAR PKNAME(0000)] used Giga Impact!
+The opposing [VAR PKNAME(0000)] used Giga Impact!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Giga Impact!
+[VAR PKNAME(0000)] used Nasty Plot!
+The wild [VAR PKNAME(0000)] used Nasty Plot!
+The opposing [VAR PKNAME(0000)] used Nasty Plot!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Nasty Plot!
+[VAR PKNAME(0000)] used Bullet Punch!
+The wild [VAR PKNAME(0000)] used Bullet Punch!
+The opposing [VAR PKNAME(0000)] used Bullet Punch!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Bullet Punch!
+[VAR PKNAME(0000)] used Avalanche!
+The wild [VAR PKNAME(0000)] used Avalanche!
+The opposing [VAR PKNAME(0000)] used Avalanche!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Avalanche!
+[VAR PKNAME(0000)] used Ice Shard!
+The wild [VAR PKNAME(0000)] used Ice Shard!
+The opposing [VAR PKNAME(0000)] used Ice Shard!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Ice Shard!
+[VAR PKNAME(0000)] used Shadow Claw!
+The wild [VAR PKNAME(0000)] used Shadow Claw!
+The opposing [VAR PKNAME(0000)] used Shadow Claw!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Shadow Claw!
+[VAR PKNAME(0000)] used Thunder Fang!
+The wild [VAR PKNAME(0000)] used Thunder Fang!
+The opposing [VAR PKNAME(0000)] used Thunder Fang!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Thunder Fang!
+[VAR PKNAME(0000)] used Ice Fang!
+The wild [VAR PKNAME(0000)] used Ice Fang!
+The opposing [VAR PKNAME(0000)] used Ice Fang!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Ice Fang!
+[VAR PKNAME(0000)] used Fire Fang!
+The wild [VAR PKNAME(0000)] used Fire Fang!
+The opposing [VAR PKNAME(0000)] used Fire Fang!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Fire Fang!
+[VAR PKNAME(0000)] used Shadow Sneak!
+The wild [VAR PKNAME(0000)] used Shadow Sneak!
+The opposing [VAR PKNAME(0000)] used Shadow Sneak!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Shadow Sneak!
+[VAR PKNAME(0000)] used Mud Bomb!
+The wild [VAR PKNAME(0000)] used Mud Bomb!
+The opposing [VAR PKNAME(0000)] used Mud Bomb!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Mud Bomb!
+[VAR PKNAME(0000)] used Psycho Cut!
+The wild [VAR PKNAME(0000)] used Psycho Cut!
+The opposing [VAR PKNAME(0000)] used Psycho Cut!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Psycho Cut!
+[VAR PKNAME(0000)] used Zen Headbutt!
+The wild [VAR PKNAME(0000)] used Zen Headbutt!
+The opposing [VAR PKNAME(0000)] used Zen Headbutt!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Zen Headbutt!
+[VAR PKNAME(0000)] used Mirror Shot!
+The wild [VAR PKNAME(0000)] used Mirror Shot!
+The opposing [VAR PKNAME(0000)] used Mirror Shot!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Mirror Shot!
+[VAR PKNAME(0000)] used Flash Cannon!
+The wild [VAR PKNAME(0000)] used Flash Cannon!
+The opposing [VAR PKNAME(0000)] used Flash Cannon!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Flash Cannon!
+[VAR PKNAME(0000)] used Rock Climb!
+The wild [VAR PKNAME(0000)] used Rock Climb!
+The opposing [VAR PKNAME(0000)] used Rock Climb!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Rock Climb!
+[VAR PKNAME(0000)] used Defog!
+The wild [VAR PKNAME(0000)] used Defog!
+The opposing [VAR PKNAME(0000)] used Defog!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Defog!
+[VAR PKNAME(0000)] used Trick Room!
+The wild [VAR PKNAME(0000)] used Trick Room!
+The opposing [VAR PKNAME(0000)] used Trick Room!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Trick Room!
+[VAR PKNAME(0000)] used Draco Meteor!
+The wild [VAR PKNAME(0000)] used Draco Meteor!
+The opposing [VAR PKNAME(0000)] used Draco Meteor!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Draco Meteor!
+[VAR PKNAME(0000)] used Discharge!
+The wild [VAR PKNAME(0000)] used Discharge!
+The opposing [VAR PKNAME(0000)] used Discharge!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Discharge!
+[VAR PKNAME(0000)] used Lava Plume!
+The wild [VAR PKNAME(0000)] used Lava Plume!
+The opposing [VAR PKNAME(0000)] used Lava Plume!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Lava Plume!
+[VAR PKNAME(0000)] used Leaf Storm!
+The wild [VAR PKNAME(0000)] used Leaf Storm!
+The opposing [VAR PKNAME(0000)] used Leaf Storm!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Leaf Storm!
+[VAR PKNAME(0000)] used Power Whip!
+The wild [VAR PKNAME(0000)] used Power Whip!
+The opposing [VAR PKNAME(0000)] used Power Whip!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Power Whip!
+[VAR PKNAME(0000)] used Rock Wrecker!
+The wild [VAR PKNAME(0000)] used Rock Wrecker!
+The opposing [VAR PKNAME(0000)] used Rock Wrecker!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Rock Wrecker!
+[VAR PKNAME(0000)] used Cross Poison!
+The wild [VAR PKNAME(0000)] used Cross Poison!
+The opposing [VAR PKNAME(0000)] used Cross Poison!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Cross Poison!
+[VAR PKNAME(0000)] used Gunk Shot!
+The wild [VAR PKNAME(0000)] used Gunk Shot!
+The opposing [VAR PKNAME(0000)] used Gunk Shot!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Gunk Shot!
+[VAR PKNAME(0000)] used Iron Head!
+The wild [VAR PKNAME(0000)] used Iron Head!
+The opposing [VAR PKNAME(0000)] used Iron Head!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Iron Head!
+[VAR PKNAME(0000)] used Magnet Bomb!
+The wild [VAR PKNAME(0000)] used Magnet Bomb!
+The opposing [VAR PKNAME(0000)] used Magnet Bomb!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Magnet Bomb!
+[VAR PKNAME(0000)] used Stone Edge!
+The wild [VAR PKNAME(0000)] used Stone Edge!
+The opposing [VAR PKNAME(0000)] used Stone Edge!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Stone Edge!
+[VAR PKNAME(0000)] used Captivate!
+The wild [VAR PKNAME(0000)] used Captivate!
+The opposing [VAR PKNAME(0000)] used Captivate!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Captivate!
+[VAR PKNAME(0000)] used Stealth Rock!
+The wild [VAR PKNAME(0000)] used Stealth Rock!
+The opposing [VAR PKNAME(0000)] used Stealth Rock!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Stealth Rock!
+[VAR PKNAME(0000)] used Grass Knot!
+The wild [VAR PKNAME(0000)] used Grass Knot!
+The opposing [VAR PKNAME(0000)] used Grass Knot!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Grass Knot!
+[VAR PKNAME(0000)] used Chatter!
+The wild [VAR PKNAME(0000)] used Chatter!
+The opposing [VAR PKNAME(0000)] used Chatter!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Chatter!
+[VAR PKNAME(0000)] used Judgment!
+The wild [VAR PKNAME(0000)] used Judgment!
+The opposing [VAR PKNAME(0000)] used Judgment!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Judgment!
+[VAR PKNAME(0000)] used Bug Bite!
+The wild [VAR PKNAME(0000)] used Bug Bite!
+The opposing [VAR PKNAME(0000)] used Bug Bite!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Bug Bite!
+[VAR PKNAME(0000)] used Charge Beam!
+The wild [VAR PKNAME(0000)] used Charge Beam!
+The opposing [VAR PKNAME(0000)] used Charge Beam!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Charge Beam!
+[VAR PKNAME(0000)] used Wood Hammer!
+The wild [VAR PKNAME(0000)] used Wood Hammer!
+The opposing [VAR PKNAME(0000)] used Wood Hammer!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Wood Hammer!
+[VAR PKNAME(0000)] used Aqua Jet!
+The wild [VAR PKNAME(0000)] used Aqua Jet!
+The opposing [VAR PKNAME(0000)] used Aqua Jet!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Aqua Jet!
+[VAR PKNAME(0000)] used Attack Order!
+The wild [VAR PKNAME(0000)] used Attack Order!
+The opposing [VAR PKNAME(0000)] used Attack Order!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Attack Order!
+[VAR PKNAME(0000)] used Defend Order!
+The wild [VAR PKNAME(0000)] used Defend Order!
+The opposing [VAR PKNAME(0000)] used Defend Order!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Defend Order!
+[VAR PKNAME(0000)] used Heal Order!
+The wild [VAR PKNAME(0000)] used Heal Order!
+The opposing [VAR PKNAME(0000)] used Heal Order!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Heal Order!
+[VAR PKNAME(0000)] used Head Smash!
+The wild [VAR PKNAME(0000)] used Head Smash!
+The opposing [VAR PKNAME(0000)] used Head Smash!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Head Smash!
+[VAR PKNAME(0000)] used Double Hit!
+The wild [VAR PKNAME(0000)] used Double Hit!
+The opposing [VAR PKNAME(0000)] used Double Hit!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Double Hit!
+[VAR PKNAME(0000)] used Roar of Time!
+The wild [VAR PKNAME(0000)] used Roar of Time!
+The opposing [VAR PKNAME(0000)] used Roar of Time!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Roar of Time!
+[VAR PKNAME(0000)] used Spacial Rend!
+The wild [VAR PKNAME(0000)] used Spacial Rend!
+The opposing [VAR PKNAME(0000)] used Spacial Rend!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Spacial Rend!
+[VAR PKNAME(0000)] used Lunar Dance!
+The wild [VAR PKNAME(0000)] used Lunar Dance!
+The opposing [VAR PKNAME(0000)] used Lunar Dance!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Lunar Dance!
+[VAR PKNAME(0000)] used Crush Grip!
+The wild [VAR PKNAME(0000)] used Crush Grip!
+The opposing [VAR PKNAME(0000)] used Crush Grip!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Crush Grip!
+[VAR PKNAME(0000)] used Magma Storm!
+The wild [VAR PKNAME(0000)] used Magma Storm!
+The opposing [VAR PKNAME(0000)] used Magma Storm!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Magma Storm!
+[VAR PKNAME(0000)] used Dark Void!
+The wild [VAR PKNAME(0000)] used Dark Void!
+The opposing [VAR PKNAME(0000)] used Dark Void!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Dark Void!
+[VAR PKNAME(0000)] used Seed Flare!
+The wild [VAR PKNAME(0000)] used Seed Flare!
+The opposing [VAR PKNAME(0000)] used Seed Flare!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Seed Flare!
+[VAR PKNAME(0000)] used Ominous Wind!
+The wild [VAR PKNAME(0000)] used Ominous Wind!
+The opposing [VAR PKNAME(0000)] used Ominous Wind!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Ominous Wind!
+[VAR PKNAME(0000)] used Shadow Force!
+The wild [VAR PKNAME(0000)] used Shadow Force!
+The opposing [VAR PKNAME(0000)] used Shadow Force!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Shadow Force!
+[VAR PKNAME(0000)] used Hone Claws!
+The wild [VAR PKNAME(0000)] used Hone Claws!
+The opposing [VAR PKNAME(0000)] used Hone Claws!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Hone Claws!
+[VAR PKNAME(0000)] used Wide Guard!
+The wild [VAR PKNAME(0000)] used Wide Guard!
+The opposing [VAR PKNAME(0000)] used Wide Guard!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Wide Guard!
+[VAR PKNAME(0000)] used Guard Split!
+The wild [VAR PKNAME(0000)] used Guard Split!
+The opposing [VAR PKNAME(0000)] used Guard Split!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Guard Split!
+[VAR PKNAME(0000)] used Power Split!
+The wild [VAR PKNAME(0000)] used Power Split!
+The opposing [VAR PKNAME(0000)] used Power Split!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Power Split!
+[VAR PKNAME(0000)] used Wonder Room!
+The wild [VAR PKNAME(0000)] used Wonder Room!
+The opposing [VAR PKNAME(0000)] used Wonder Room!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Wonder Room!
+[VAR PKNAME(0000)] used Psyshock!
+The wild [VAR PKNAME(0000)] used Psyshock!
+The opposing [VAR PKNAME(0000)] used Psyshock!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Psyshock!
+[VAR PKNAME(0000)] used Venoshock!
+The wild [VAR PKNAME(0000)] used Venoshock!
+The opposing [VAR PKNAME(0000)] used Venoshock!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Venoshock!
+[VAR PKNAME(0000)] used Autotomize!
+The wild [VAR PKNAME(0000)] used Autotomize!
+The opposing [VAR PKNAME(0000)] used Autotomize!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Autotomize!
+[VAR PKNAME(0000)] used Rage Powder!
+The wild [VAR PKNAME(0000)] used Rage Powder!
+The opposing [VAR PKNAME(0000)] used Rage Powder!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Rage Powder!
+[VAR PKNAME(0000)] used Telekinesis!
+The wild [VAR PKNAME(0000)] used Telekinesis!
+The opposing [VAR PKNAME(0000)] used Telekinesis!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Telekinesis!
+[VAR PKNAME(0000)] used Magic Room!
+The wild [VAR PKNAME(0000)] used Magic Room!
+The opposing [VAR PKNAME(0000)] used Magic Room!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Magic Room!
+[VAR PKNAME(0000)] used Smack Down!
+The wild [VAR PKNAME(0000)] used Smack Down!
+The opposing [VAR PKNAME(0000)] used Smack Down!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Smack Down!
+[VAR PKNAME(0000)] used Storm Throw!
+The wild [VAR PKNAME(0000)] used Storm Throw!
+The opposing [VAR PKNAME(0000)] used Storm Throw!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Storm Throw!
+[VAR PKNAME(0000)] used Flame Burst!
+The wild [VAR PKNAME(0000)] used Flame Burst!
+The opposing [VAR PKNAME(0000)] used Flame Burst!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Flame Burst!
+[VAR PKNAME(0000)] used Sludge Wave!
+The wild [VAR PKNAME(0000)] used Sludge Wave!
+The opposing [VAR PKNAME(0000)] used Sludge Wave!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Sludge Wave!
+[VAR PKNAME(0000)] used Quiver Dance!
+The wild [VAR PKNAME(0000)] used Quiver Dance!
+The opposing [VAR PKNAME(0000)] used Quiver Dance!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Quiver Dance!
+[VAR PKNAME(0000)] used Heavy Slam!
+The wild [VAR PKNAME(0000)] used Heavy Slam!
+The opposing [VAR PKNAME(0000)] used Heavy Slam!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Heavy Slam!
+[VAR PKNAME(0000)] used Synchronoise!
+The wild [VAR PKNAME(0000)] used Synchronoise!
+The opposing [VAR PKNAME(0000)] used Synchronoise!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Synchronoise!
+[VAR PKNAME(0000)] used Electro Ball!
+The wild [VAR PKNAME(0000)] used Electro Ball!
+The opposing [VAR PKNAME(0000)] used Electro Ball!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Electro Ball!
+[VAR PKNAME(0000)] used Soak!
+The wild [VAR PKNAME(0000)] used Soak!
+The opposing [VAR PKNAME(0000)] used Soak!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Soak!
+[VAR PKNAME(0000)] used Flame Charge!
+The wild [VAR PKNAME(0000)] used Flame Charge!
+The opposing [VAR PKNAME(0000)] used Flame Charge!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Flame Charge!
+[VAR PKNAME(0000)] used Coil!
+The wild [VAR PKNAME(0000)] used Coil!
+The opposing [VAR PKNAME(0000)] used Coil!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Coil!
+[VAR PKNAME(0000)] used Low Sweep!
+The wild [VAR PKNAME(0000)] used Low Sweep!
+The opposing [VAR PKNAME(0000)] used Low Sweep!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Low Sweep!
+[VAR PKNAME(0000)] used Acid Spray!
+The wild [VAR PKNAME(0000)] used Acid Spray!
+The opposing [VAR PKNAME(0000)] used Acid Spray!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Acid Spray!
+[VAR PKNAME(0000)] used Foul Play!
+The wild [VAR PKNAME(0000)] used Foul Play!
+The opposing [VAR PKNAME(0000)] used Foul Play!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Foul Play!
+[VAR PKNAME(0000)] used Simple Beam!
+The wild [VAR PKNAME(0000)] used Simple Beam!
+The opposing [VAR PKNAME(0000)] used Simple Beam!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Simple Beam!
+[VAR PKNAME(0000)] used Entrainment!
+The wild [VAR PKNAME(0000)] used Entrainment!
+The opposing [VAR PKNAME(0000)] used Entrainment!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Entrainment!
+[VAR PKNAME(0000)] used After You!
+The wild [VAR PKNAME(0000)] used After You!
+The opposing [VAR PKNAME(0000)] used After You!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used After You!
+[VAR PKNAME(0000)] used Round!
+The wild [VAR PKNAME(0000)] used Round!
+The opposing [VAR PKNAME(0000)] used Round!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Round!
+[VAR PKNAME(0000)] used Echoed Voice!
+The wild [VAR PKNAME(0000)] used Echoed Voice!
+The opposing [VAR PKNAME(0000)] used Echoed Voice!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Echoed Voice!
+[VAR PKNAME(0000)] used Chip Away!
+The wild [VAR PKNAME(0000)] used Chip Away!
+The opposing [VAR PKNAME(0000)] used Chip Away!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Chip Away!
+[VAR PKNAME(0000)] used Clear Smog!
+The wild [VAR PKNAME(0000)] used Clear Smog!
+The opposing [VAR PKNAME(0000)] used Clear Smog!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Clear Smog!
+[VAR PKNAME(0000)] used Stored Power!
+The wild [VAR PKNAME(0000)] used Stored Power!
+The opposing [VAR PKNAME(0000)] used Stored Power!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Stored Power!
+[VAR PKNAME(0000)] used Quick Guard!
+The wild [VAR PKNAME(0000)] used Quick Guard!
+The opposing [VAR PKNAME(0000)] used Quick Guard!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Quick Guard!
+[VAR PKNAME(0000)] used Ally Switch!
+The wild [VAR PKNAME(0000)] used Ally Switch!
+The opposing [VAR PKNAME(0000)] used Ally Switch!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Ally Switch!
+[VAR PKNAME(0000)] used Scald!
+The wild [VAR PKNAME(0000)] used Scald!
+The opposing [VAR PKNAME(0000)] used Scald!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Scald!
+[VAR PKNAME(0000)] used Shell Smash!
+The wild [VAR PKNAME(0000)] used Shell Smash!
+The opposing [VAR PKNAME(0000)] used Shell Smash!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Shell Smash!
+[VAR PKNAME(0000)] used Heal Pulse!
+The wild [VAR PKNAME(0000)] used Heal Pulse!
+The opposing [VAR PKNAME(0000)] used Heal Pulse!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Heal Pulse!
+[VAR PKNAME(0000)] used Hex!
+The wild [VAR PKNAME(0000)] used Hex!
+The opposing [VAR PKNAME(0000)] used Hex!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Hex!
+[VAR PKNAME(0000)] used Sky Drop!
+The wild [VAR PKNAME(0000)] used Sky Drop!
+The opposing [VAR PKNAME(0000)] used Sky Drop!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Sky Drop!
+[VAR PKNAME(0000)] used Shift Gear!
+The wild [VAR PKNAME(0000)] used Shift Gear!
+The opposing [VAR PKNAME(0000)] used Shift Gear!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Shift Gear!
+[VAR PKNAME(0000)] used Circle Throw!
+The wild [VAR PKNAME(0000)] used Circle Throw!
+The opposing [VAR PKNAME(0000)] used Circle Throw!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Circle Throw!
+[VAR PKNAME(0000)] used Incinerate!
+The wild [VAR PKNAME(0000)] used Incinerate!
+The opposing [VAR PKNAME(0000)] used Incinerate!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Incinerate!
+[VAR PKNAME(0000)] used Quash!
+The wild [VAR PKNAME(0000)] used Quash!
+The opposing [VAR PKNAME(0000)] used Quash!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Quash!
+[VAR PKNAME(0000)] used Acrobatics!
+The wild [VAR PKNAME(0000)] used Acrobatics!
+The opposing [VAR PKNAME(0000)] used Acrobatics!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Acrobatics!
+[VAR PKNAME(0000)] used Reflect Type!
+The wild [VAR PKNAME(0000)] used Reflect Type!
+The opposing [VAR PKNAME(0000)] used Reflect Type!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Reflect Type!
+[VAR PKNAME(0000)] used Retaliate!
+The wild [VAR PKNAME(0000)] used Retaliate!
+The opposing [VAR PKNAME(0000)] used Retaliate!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Retaliate!
+[VAR PKNAME(0000)] used Final Gambit!
+The wild [VAR PKNAME(0000)] used Final Gambit!
+The opposing [VAR PKNAME(0000)] used Final Gambit!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Final Gambit!
+[VAR PKNAME(0000)] used Bestow!
+The wild [VAR PKNAME(0000)] used Bestow!
+The opposing [VAR PKNAME(0000)] used Bestow!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Bestow!
+[VAR PKNAME(0000)] used Inferno!
+The wild [VAR PKNAME(0000)] used Inferno!
+The opposing [VAR PKNAME(0000)] used Inferno!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Inferno!
+[VAR PKNAME(0000)] used Water Pledge!
+The wild [VAR PKNAME(0000)] used Water Pledge!
+The opposing [VAR PKNAME(0000)] used Water Pledge!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Water Pledge!
+[VAR PKNAME(0000)] used Fire Pledge!
+The wild [VAR PKNAME(0000)] used Fire Pledge!
+The opposing [VAR PKNAME(0000)] used Fire Pledge!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Fire Pledge!
+[VAR PKNAME(0000)] used Grass Pledge!
+The wild [VAR PKNAME(0000)] used Grass Pledge!
+The opposing [VAR PKNAME(0000)] used Grass Pledge!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Grass Pledge!
+[VAR PKNAME(0000)] used Volt Switch!
+The wild [VAR PKNAME(0000)] used Volt Switch!
+The opposing [VAR PKNAME(0000)] used Volt Switch!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Volt Switch!
+[VAR PKNAME(0000)] used Struggle Bug!
+The wild [VAR PKNAME(0000)] used Struggle Bug!
+The opposing [VAR PKNAME(0000)] used Struggle Bug!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Struggle Bug!
+[VAR PKNAME(0000)] used Bulldoze!
+The wild [VAR PKNAME(0000)] used Bulldoze!
+The opposing [VAR PKNAME(0000)] used Bulldoze!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Bulldoze!
+[VAR PKNAME(0000)] used Frost Breath!
+The wild [VAR PKNAME(0000)] used Frost Breath!
+The opposing [VAR PKNAME(0000)] used Frost Breath!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Frost Breath!
+[VAR PKNAME(0000)] used Dragon Tail!
+The wild [VAR PKNAME(0000)] used Dragon Tail!
+The opposing [VAR PKNAME(0000)] used Dragon Tail!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Dragon Tail!
+[VAR PKNAME(0000)] used Work Up!
+The wild [VAR PKNAME(0000)] used Work Up!
+The opposing [VAR PKNAME(0000)] used Work Up!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Work Up!
+[VAR PKNAME(0000)] used Electroweb!
+The wild [VAR PKNAME(0000)] used Electroweb!
+The opposing [VAR PKNAME(0000)] used Electroweb!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Electroweb!
+[VAR PKNAME(0000)] used Wild Charge!
+The wild [VAR PKNAME(0000)] used Wild Charge!
+The opposing [VAR PKNAME(0000)] used Wild Charge!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Wild Charge!
+[VAR PKNAME(0000)] used Drill Run!
+The wild [VAR PKNAME(0000)] used Drill Run!
+The opposing [VAR PKNAME(0000)] used Drill Run!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Drill Run!
+[VAR PKNAME(0000)] used Dual Chop!
+The wild [VAR PKNAME(0000)] used Dual Chop!
+The opposing [VAR PKNAME(0000)] used Dual Chop!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Dual Chop!
+[VAR PKNAME(0000)] used Heart Stamp!
+The wild [VAR PKNAME(0000)] used Heart Stamp!
+The opposing [VAR PKNAME(0000)] used Heart Stamp!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Heart Stamp!
+[VAR PKNAME(0000)] used Horn Leech!
+The wild [VAR PKNAME(0000)] used Horn Leech!
+The opposing [VAR PKNAME(0000)] used Horn Leech!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Horn Leech!
+[VAR PKNAME(0000)] used Sacred Sword!
+The wild [VAR PKNAME(0000)] used Sacred Sword!
+The opposing [VAR PKNAME(0000)] used Sacred Sword!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Sacred Sword!
+[VAR PKNAME(0000)] used Razor Shell!
+The wild [VAR PKNAME(0000)] used Razor Shell!
+The opposing [VAR PKNAME(0000)] used Razor Shell!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Razor Shell!
+[VAR PKNAME(0000)] used Heat Crash!
+The wild [VAR PKNAME(0000)] used Heat Crash!
+The opposing [VAR PKNAME(0000)] used Heat Crash!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Heat Crash!
+[VAR PKNAME(0000)] used Leaf Tornado!
+The wild [VAR PKNAME(0000)] used Leaf Tornado!
+The opposing [VAR PKNAME(0000)] used Leaf Tornado!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Leaf Tornado!
+[VAR PKNAME(0000)] used Steamroller!
+The wild [VAR PKNAME(0000)] used Steamroller!
+The opposing [VAR PKNAME(0000)] used Steamroller!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Steamroller!
+[VAR PKNAME(0000)] used Cotton Guard!
+The wild [VAR PKNAME(0000)] used Cotton Guard!
+The opposing [VAR PKNAME(0000)] used Cotton Guard!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Cotton Guard!
+[VAR PKNAME(0000)] used Night Daze!
+The wild [VAR PKNAME(0000)] used Night Daze!
+The opposing [VAR PKNAME(0000)] used Night Daze!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Night Daze!
+[VAR PKNAME(0000)] used Psystrike!
+The wild [VAR PKNAME(0000)] used Psystrike!
+The opposing [VAR PKNAME(0000)] used Psystrike!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Psystrike!
+[VAR PKNAME(0000)] used Tail Slap!
+The wild [VAR PKNAME(0000)] used Tail Slap!
+The opposing [VAR PKNAME(0000)] used Tail Slap!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Tail Slap!
+[VAR PKNAME(0000)] used Hurricane!
+The wild [VAR PKNAME(0000)] used Hurricane!
+The opposing [VAR PKNAME(0000)] used Hurricane!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Hurricane!
+[VAR PKNAME(0000)] used Head Charge!
+The wild [VAR PKNAME(0000)] used Head Charge!
+The opposing [VAR PKNAME(0000)] used Head Charge!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Head Charge!
+[VAR PKNAME(0000)] used Gear Grind!
+The wild [VAR PKNAME(0000)] used Gear Grind!
+The opposing [VAR PKNAME(0000)] used Gear Grind!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Gear Grind!
+[VAR PKNAME(0000)] used Searing Shot!
+The wild [VAR PKNAME(0000)] used Searing Shot!
+The opposing [VAR PKNAME(0000)] used Searing Shot!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Searing Shot!
+[VAR PKNAME(0000)] used Techno Blast!
+The wild [VAR PKNAME(0000)] used Techno Blast!
+The opposing [VAR PKNAME(0000)] used Techno Blast!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Techno Blast!
+[VAR PKNAME(0000)] used Relic Song!
+The wild [VAR PKNAME(0000)] used Relic Song!
+The opposing [VAR PKNAME(0000)] used Relic Song!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Relic Song!
+[VAR PKNAME(0000)] used Secret Sword!
+The wild [VAR PKNAME(0000)] used Secret Sword!
+The opposing [VAR PKNAME(0000)] used Secret Sword!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Secret Sword!
+[VAR PKNAME(0000)] used Glaciate!
+The wild [VAR PKNAME(0000)] used Glaciate!
+The opposing [VAR PKNAME(0000)] used Glaciate!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Glaciate!
+[VAR PKNAME(0000)] used Bolt Strike!
+The wild [VAR PKNAME(0000)] used Bolt Strike!
+The opposing [VAR PKNAME(0000)] used Bolt Strike!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Bolt Strike!
+[VAR PKNAME(0000)] used Blue Flare!
+The wild [VAR PKNAME(0000)] used Blue Flare!
+The opposing [VAR PKNAME(0000)] used Blue Flare!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Blue Flare!
+[VAR PKNAME(0000)] used Fiery Dance!
+The wild [VAR PKNAME(0000)] used Fiery Dance!
+The opposing [VAR PKNAME(0000)] used Fiery Dance!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Fiery Dance!
+[VAR PKNAME(0000)] used Freeze Shock!
+The wild [VAR PKNAME(0000)] used Freeze Shock!
+The opposing [VAR PKNAME(0000)] used Freeze Shock!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Freeze Shock!
+[VAR PKNAME(0000)] used Ice Burn!
+The wild [VAR PKNAME(0000)] used Ice Burn!
+The opposing [VAR PKNAME(0000)] used Ice Burn!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Ice Burn!
+[VAR PKNAME(0000)] used Snarl!
+The wild [VAR PKNAME(0000)] used Snarl!
+The opposing [VAR PKNAME(0000)] used Snarl!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Snarl!
+[VAR PKNAME(0000)] used Icicle Crash!
+The wild [VAR PKNAME(0000)] used Icicle Crash!
+The opposing [VAR PKNAME(0000)] used Icicle Crash!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Icicle Crash!
+[VAR PKNAME(0000)] used V-create!
+The wild [VAR PKNAME(0000)] used V-create!
+The opposing [VAR PKNAME(0000)] used V-create!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used V-create!
+[VAR PKNAME(0000)] used Fusion Flare!
+The wild [VAR PKNAME(0000)] used Fusion Flare!
+The opposing [VAR PKNAME(0000)] used Fusion Flare!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Fusion Flare!
+[VAR PKNAME(0000)] used Fusion Bolt!
+The wild [VAR PKNAME(0000)] used Fusion Bolt!
+The opposing [VAR PKNAME(0000)] used Fusion Bolt!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Fusion Bolt!
+[VAR PKNAME(0000)] used Flying Press!
+The wild [VAR PKNAME(0000)] used Flying Press!
+The opposing [VAR PKNAME(0000)] used Flying Press!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Flying Press!
+[VAR PKNAME(0000)] used Mat Block!
+The wild [VAR PKNAME(0000)] used Mat Block!
+The opposing [VAR PKNAME(0000)] used Mat Block!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Mat Block!
+[VAR PKNAME(0000)] used Belch!
+The wild [VAR PKNAME(0000)] used Belch!
+The opposing [VAR PKNAME(0000)] used Belch!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Belch!
+[VAR PKNAME(0000)] used Rototiller!
+The wild [VAR PKNAME(0000)] used Rototiller!
+The opposing [VAR PKNAME(0000)] used Rototiller!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Rototiller!
+[VAR PKNAME(0000)] used Sticky Web!
+The wild [VAR PKNAME(0000)] used Sticky Web!
+The opposing [VAR PKNAME(0000)] used Sticky Web!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Sticky Web!
+[VAR PKNAME(0000)] used Fell Stinger!
+The wild [VAR PKNAME(0000)] used Fell Stinger!
+The opposing [VAR PKNAME(0000)] used Fell Stinger!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Fell Stinger!
+[VAR PKNAME(0000)] used Phantom Force!
+The wild [VAR PKNAME(0000)] used Phantom Force!
+The opposing [VAR PKNAME(0000)] used Phantom Force!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Phantom Force!
+[VAR PKNAME(0000)] used Trick-or-Treat!
+The wild [VAR PKNAME(0000)] used Trick-or-Treat!
+The opposing [VAR PKNAME(0000)] used Trick-or-Treat!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Trick-or-Treat!
+[VAR PKNAME(0000)] used Noble Roar!
+The wild [VAR PKNAME(0000)] used Noble Roar!
+The opposing [VAR PKNAME(0000)] used Noble Roar!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Noble Roar!
+[VAR PKNAME(0000)] used Ion Deluge!
+The wild [VAR PKNAME(0000)] used Ion Deluge!
+The opposing [VAR PKNAME(0000)] used Ion Deluge!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Ion Deluge!
+[VAR PKNAME(0000)] used Parabolic Charge!
+The wild [VAR PKNAME(0000)] used Parabolic Charge!
+The opposing [VAR PKNAME(0000)] used Parabolic Charge!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Parabolic Charge!
+[VAR PKNAME(0000)] used Forest’s Curse!
+The wild [VAR PKNAME(0000)] used Forest’s Curse!
+The opposing [VAR PKNAME(0000)] used Forest’s Curse!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Forest’s Curse!
+[VAR PKNAME(0000)] used Petal Blizzard!
+The wild [VAR PKNAME(0000)] used Petal Blizzard!
+The opposing [VAR PKNAME(0000)] used Petal Blizzard!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Petal Blizzard!
+[VAR PKNAME(0000)] used Freeze-Dry!
+The wild [VAR PKNAME(0000)] used Freeze-Dry!
+The opposing [VAR PKNAME(0000)] used Freeze-Dry!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Freeze-Dry!
+[VAR PKNAME(0000)] used Disarming Voice!
+The wild [VAR PKNAME(0000)] used Disarming Voice!
+The opposing [VAR PKNAME(0000)] used Disarming Voice!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Disarming Voice!
+[VAR PKNAME(0000)] used Parting Shot!
+The wild [VAR PKNAME(0000)] used Parting Shot!
+The opposing [VAR PKNAME(0000)] used Parting Shot!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Parting Shot!
+[VAR PKNAME(0000)] used Topsy-Turvy!
+The wild [VAR PKNAME(0000)] used Topsy-Turvy!
+The opposing [VAR PKNAME(0000)] used Topsy-Turvy!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Topsy-Turvy!
+[VAR PKNAME(0000)] used Draining Kiss!
+The wild [VAR PKNAME(0000)] used Draining Kiss!
+The opposing [VAR PKNAME(0000)] used Draining Kiss!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Draining Kiss!
+[VAR PKNAME(0000)] used Crafty Shield!
+The wild [VAR PKNAME(0000)] used Crafty Shield!
+The opposing [VAR PKNAME(0000)] used Crafty Shield!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Crafty Shield!
+[VAR PKNAME(0000)] used Flower Shield!
+The wild [VAR PKNAME(0000)] used Flower Shield!
+The opposing [VAR PKNAME(0000)] used Flower Shield!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Flower Shield!
+[VAR PKNAME(0000)] used Grassy Terrain!
+The wild [VAR PKNAME(0000)] used Grassy Terrain!
+The opposing [VAR PKNAME(0000)] used Grassy Terrain!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Grassy Terrain!
+[VAR PKNAME(0000)] used Misty Terrain!
+The wild [VAR PKNAME(0000)] used Misty Terrain!
+The opposing [VAR PKNAME(0000)] used Misty Terrain!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Misty Terrain!
+[VAR PKNAME(0000)] used Electrify!
+The wild [VAR PKNAME(0000)] used Electrify!
+The opposing [VAR PKNAME(0000)] used Electrify!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Electrify!
+[VAR PKNAME(0000)] used Play Rough!
+The wild [VAR PKNAME(0000)] used Play Rough!
+The opposing [VAR PKNAME(0000)] used Play Rough!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Play Rough!
+[VAR PKNAME(0000)] used Fairy Wind!
+The wild [VAR PKNAME(0000)] used Fairy Wind!
+The opposing [VAR PKNAME(0000)] used Fairy Wind!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Fairy Wind!
+[VAR PKNAME(0000)] used Moonblast!
+The wild [VAR PKNAME(0000)] used Moonblast!
+The opposing [VAR PKNAME(0000)] used Moonblast!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Moonblast!
+[VAR PKNAME(0000)] used Boomburst!
+The wild [VAR PKNAME(0000)] used Boomburst!
+The opposing [VAR PKNAME(0000)] used Boomburst!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Boomburst!
+[VAR PKNAME(0000)] used Fairy Lock!
+The wild [VAR PKNAME(0000)] used Fairy Lock!
+The opposing [VAR PKNAME(0000)] used Fairy Lock!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Fairy Lock!
+[VAR PKNAME(0000)] used King’s Shield!
+The wild [VAR PKNAME(0000)] used King’s Shield!
+The opposing [VAR PKNAME(0000)] used King’s Shield!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used King’s Shield!
+[VAR PKNAME(0000)] used Play Nice!
+The wild [VAR PKNAME(0000)] used Play Nice!
+The opposing [VAR PKNAME(0000)] used Play Nice!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Play Nice!
+[VAR PKNAME(0000)] used Confide!
+The wild [VAR PKNAME(0000)] used Confide!
+The opposing [VAR PKNAME(0000)] used Confide!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Confide!
+[VAR PKNAME(0000)] used Diamond Storm!
+The wild [VAR PKNAME(0000)] used Diamond Storm!
+The opposing [VAR PKNAME(0000)] used Diamond Storm!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Diamond Storm!
+[VAR PKNAME(0000)] used Steam Eruption!
+The wild [VAR PKNAME(0000)] used Steam Eruption!
+The opposing [VAR PKNAME(0000)] used Steam Eruption!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Steam Eruption!
+[VAR PKNAME(0000)] used Hyperspace Hole!
+The wild [VAR PKNAME(0000)] used Hyperspace Hole!
+The opposing [VAR PKNAME(0000)] used Hyperspace Hole!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Hyperspace Hole!
+[VAR PKNAME(0000)] used Water Shuriken!
+The wild [VAR PKNAME(0000)] used Water Shuriken!
+The opposing [VAR PKNAME(0000)] used Water Shuriken!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Water Shuriken!
+[VAR PKNAME(0000)] used Mystical Fire!
+The wild [VAR PKNAME(0000)] used Mystical Fire!
+The opposing [VAR PKNAME(0000)] used Mystical Fire!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Mystical Fire!
+[VAR PKNAME(0000)] used Spiky Shield!
+The wild [VAR PKNAME(0000)] used Spiky Shield!
+The opposing [VAR PKNAME(0000)] used Spiky Shield!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Spiky Shield!
+[VAR PKNAME(0000)] used Aromatic Mist!
+The wild [VAR PKNAME(0000)] used Aromatic Mist!
+The opposing [VAR PKNAME(0000)] used Aromatic Mist!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Aromatic Mist!
+[VAR PKNAME(0000)] used Eerie Impulse!
+The wild [VAR PKNAME(0000)] used Eerie Impulse!
+The opposing [VAR PKNAME(0000)] used Eerie Impulse!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Eerie Impulse!
+[VAR PKNAME(0000)] used Venom Drench!
+The wild [VAR PKNAME(0000)] used Venom Drench!
+The opposing [VAR PKNAME(0000)] used Venom Drench!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Venom Drench!
+[VAR PKNAME(0000)] used Powder!
+The wild [VAR PKNAME(0000)] used Powder!
+The opposing [VAR PKNAME(0000)] used Powder!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Powder!
+[VAR PKNAME(0000)] used Geomancy!
+The wild [VAR PKNAME(0000)] used Geomancy!
+The opposing [VAR PKNAME(0000)] used Geomancy!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Geomancy!
+[VAR PKNAME(0000)] used Magnetic Flux!
+The wild [VAR PKNAME(0000)] used Magnetic Flux!
+The opposing [VAR PKNAME(0000)] used Magnetic Flux!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Magnetic Flux!
+[VAR PKNAME(0000)] used Happy Hour!
+The wild [VAR PKNAME(0000)] used Happy Hour!
+The opposing [VAR PKNAME(0000)] used Happy Hour!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Happy Hour!
+[VAR PKNAME(0000)] used Electric Terrain!
+The wild [VAR PKNAME(0000)] used Electric Terrain!
+The opposing [VAR PKNAME(0000)] used Electric Terrain!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Electric Terrain!
+[VAR PKNAME(0000)] used Dazzling Gleam!
+The wild [VAR PKNAME(0000)] used Dazzling Gleam!
+The opposing [VAR PKNAME(0000)] used Dazzling Gleam!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Dazzling Gleam!
+[VAR PKNAME(0000)] used Celebrate!
+The wild [VAR PKNAME(0000)] used Celebrate!
+The opposing [VAR PKNAME(0000)] used Celebrate!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Celebrate!
+[VAR PKNAME(0000)] used Hold Hands!
+The wild [VAR PKNAME(0000)] used Hold Hands!
+The opposing [VAR PKNAME(0000)] used Hold Hands!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Hold Hands!
+[VAR PKNAME(0000)] used Baby-Doll Eyes!
+The wild [VAR PKNAME(0000)] used Baby-Doll Eyes!
+The opposing [VAR PKNAME(0000)] used Baby-Doll Eyes!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Baby-Doll Eyes!
+[VAR PKNAME(0000)] used Nuzzle!
+The wild [VAR PKNAME(0000)] used Nuzzle!
+The opposing [VAR PKNAME(0000)] used Nuzzle!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Nuzzle!
+[VAR PKNAME(0000)] used Hold Back!
+The wild [VAR PKNAME(0000)] used Hold Back!
+The opposing [VAR PKNAME(0000)] used Hold Back!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Hold Back!
+[VAR PKNAME(0000)] used Infestation!
+The wild [VAR PKNAME(0000)] used Infestation!
+The opposing [VAR PKNAME(0000)] used Infestation!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Infestation!
+[VAR PKNAME(0000)] used Power-Up Punch!
+The wild [VAR PKNAME(0000)] used Power-Up Punch!
+The opposing [VAR PKNAME(0000)] used Power-Up Punch!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Power-Up Punch!
+[VAR PKNAME(0000)] used Oblivion Wing!
+The wild [VAR PKNAME(0000)] used Oblivion Wing!
+The opposing [VAR PKNAME(0000)] used Oblivion Wing!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Oblivion Wing!
+[VAR PKNAME(0000)] used Thousand Arrows!
+The wild [VAR PKNAME(0000)] used Thousand Arrows!
+The opposing [VAR PKNAME(0000)] used Thousand Arrows!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Thousand Arrows!
+[VAR PKNAME(0000)] used Thousand Waves!
+The wild [VAR PKNAME(0000)] used Thousand Waves!
+The opposing [VAR PKNAME(0000)] used Thousand Waves!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Thousand Waves!
+[VAR PKNAME(0000)] used Land’s Wrath!
+The wild [VAR PKNAME(0000)] used Land’s Wrath!
+The opposing [VAR PKNAME(0000)] used Land’s Wrath!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Land’s Wrath!
+[VAR PKNAME(0000)] used Light of Ruin!
+The wild [VAR PKNAME(0000)] used Light of Ruin!
+The opposing [VAR PKNAME(0000)] used Light of Ruin!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Light of Ruin!
+[VAR PKNAME(0000)] used Origin Pulse!
+The wild [VAR PKNAME(0000)] used Origin Pulse!
+The opposing [VAR PKNAME(0000)] used Origin Pulse!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Origin Pulse!
+[VAR PKNAME(0000)] used Precipice Blades!
+The wild [VAR PKNAME(0000)] used Precipice Blades!
+The opposing [VAR PKNAME(0000)] used Precipice Blades!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Precipice Blades!
+[VAR PKNAME(0000)] used Dragon Ascent!
+The wild [VAR PKNAME(0000)] used Dragon Ascent!
+The opposing [VAR PKNAME(0000)] used Dragon Ascent!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Dragon Ascent!
+[VAR PKNAME(0000)] used Hyperspace Fury!
+The wild [VAR PKNAME(0000)] used Hyperspace Fury!
+The opposing [VAR PKNAME(0000)] used Hyperspace Fury!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Hyperspace Fury!
+[~ 2488]
+[~ 2489]
+[~ 2490]
+[~ 2491]
+[~ 2492]
+[~ 2493]
+[~ 2494]
+[~ 2495]
+[~ 2496]
+[~ 2497]
+[~ 2498]
+[~ 2499]
+[~ 2500]
+[~ 2501]
+[~ 2502]
+[~ 2503]
+[~ 2504]
+[~ 2505]
+[~ 2506]
+[~ 2507]
+[~ 2508]
+[~ 2509]
+[~ 2510]
+[~ 2511]
+[~ 2512]
+[~ 2513]
+[~ 2514]
+[~ 2515]
+[~ 2516]
+[~ 2517]
+[~ 2518]
+[~ 2519]
+[~ 2520]
+[~ 2521]
+[~ 2522]
+[~ 2523]
+[~ 2524]
+[~ 2525]
+[~ 2526]
+[~ 2527]
+[~ 2528]
+[~ 2529]
+[~ 2530]
+[~ 2531]
+[~ 2532]
+[~ 2533]
+[~ 2534]
+[~ 2535]
+[~ 2536]
+[~ 2537]
+[~ 2538]
+[~ 2539]
+[~ 2540]
+[~ 2541]
+[~ 2542]
+[~ 2543]
+[~ 2544]
+[~ 2545]
+[~ 2546]
+[~ 2547]
+[~ 2548]
+[~ 2549]
+[~ 2550]
+[~ 2551]
+[~ 2552]
+[~ 2553]
+[~ 2554]
+[~ 2555]
+[~ 2556]
+[~ 2557]
+[~ 2558]
+[~ 2559]
+[~ 2560]
+[~ 2561]
+[~ 2562]
+[~ 2563]
+[~ 2564]
+[~ 2565]
+[~ 2566]
+[~ 2567]
+[~ 2568]
+[~ 2569]
+[~ 2570]
+[~ 2571]
+[~ 2572]
+[~ 2573]
+[~ 2574]
+[~ 2575]
+[~ 2576]
+[~ 2577]
+[~ 2578]
+[~ 2579]
+[~ 2580]
+[~ 2581]
+[~ 2582]
+[~ 2583]
+[~ 2584]
+[~ 2585]
+[~ 2586]
+[~ 2587]
+[~ 2588]
+[~ 2589]
+[~ 2590]
+[~ 2591]
+[~ 2592]
+[~ 2593]
+[~ 2594]
+[~ 2595]
+[~ 2596]
+[~ 2597]
+[~ 2598]
+[~ 2599]
+[~ 2600]
+[~ 2601]
+[~ 2602]
+[~ 2603]
+[~ 2604]
+[~ 2605]
+[~ 2606]
+[~ 2607]
+[~ 2608]
+[~ 2609]
+[~ 2610]
+[~ 2611]
+[~ 2612]
+[~ 2613]
+[~ 2614]
+[~ 2615]
+[~ 2616]
+[~ 2617]
+[~ 2618]
+[~ 2619]
+[~ 2620]
+[~ 2621]
+[~ 2622]
+[~ 2623]
+[~ 2624]
+[~ 2625]
+[~ 2626]
+[~ 2627]
+[~ 2628]
+[~ 2629]
+[~ 2630]
+[~ 2631]
+[~ 2632]
+[~ 2633]
+[~ 2634]
+[~ 2635]
+[VAR PKNAME(0000)] used Shore Up!
+The wild [VAR PKNAME(0000)] used Shore Up!
+The opposing [VAR PKNAME(0000)] used Shore Up!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Shore Up!
+[VAR PKNAME(0000)] used First Impression!
+The wild [VAR PKNAME(0000)] used First Impression!
+The opposing [VAR PKNAME(0000)] used First Impression!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used First Impression!
+[VAR PKNAME(0000)] used Baneful Bunker!
+The wild [VAR PKNAME(0000)] used Baneful Bunker!
+The opposing [VAR PKNAME(0000)] used Baneful Bunker!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Baneful Bunker!
+[VAR PKNAME(0000)] used Spirit Shackle!
+The wild [VAR PKNAME(0000)] used Spirit Shackle!
+The opposing [VAR PKNAME(0000)] used Spirit Shackle!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Spirit Shackle!
+[VAR PKNAME(0000)] used Darkest Lariat!
+The wild [VAR PKNAME(0000)] used Darkest Lariat!
+The opposing [VAR PKNAME(0000)] used Darkest Lariat!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Darkest Lariat!
+[VAR PKNAME(0000)] used Sparkling Aria!
+The wild [VAR PKNAME(0000)] used Sparkling Aria!
+The opposing [VAR PKNAME(0000)] used Sparkling Aria!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Sparkling Aria!
+[VAR PKNAME(0000)] used Ice Hammer!
+The wild [VAR PKNAME(0000)] used Ice Hammer!
+The opposing [VAR PKNAME(0000)] used Ice Hammer!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Ice Hammer!
+[VAR PKNAME(0000)] used Floral Healing!
+The wild [VAR PKNAME(0000)] used Floral Healing!
+The opposing [VAR PKNAME(0000)] used Floral Healing!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Floral Healing!
+[VAR PKNAME(0000)] used High Horsepower!
+The wild [VAR PKNAME(0000)] used High Horsepower!
+The opposing [VAR PKNAME(0000)] used High Horsepower!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used High Horsepower!
+[VAR PKNAME(0000)] used Strength Sap!
+The wild [VAR PKNAME(0000)] used Strength Sap!
+The opposing [VAR PKNAME(0000)] used Strength Sap!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Strength Sap!
+[VAR PKNAME(0000)] used Solar Blade!
+The wild [VAR PKNAME(0000)] used Solar Blade!
+The opposing [VAR PKNAME(0000)] used Solar Blade!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Solar Blade!
+[VAR PKNAME(0000)] used Leafage!
+The wild [VAR PKNAME(0000)] used Leafage!
+The opposing [VAR PKNAME(0000)] used Leafage!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Leafage!
+[VAR PKNAME(0000)] used Spotlight!
+The wild [VAR PKNAME(0000)] used Spotlight!
+The opposing [VAR PKNAME(0000)] used Spotlight!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Spotlight!
+[VAR PKNAME(0000)] used Toxic Thread!
+The wild [VAR PKNAME(0000)] used Toxic Thread!
+The opposing [VAR PKNAME(0000)] used Toxic Thread!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Toxic Thread!
+[VAR PKNAME(0000)] used Laser Focus!
+The wild [VAR PKNAME(0000)] used Laser Focus!
+The opposing [VAR PKNAME(0000)] used Laser Focus!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Laser Focus!
+[VAR PKNAME(0000)] used Gear Up!
+The wild [VAR PKNAME(0000)] used Gear Up!
+The opposing [VAR PKNAME(0000)] used Gear Up!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Gear Up!
+[VAR PKNAME(0000)] used Throat Chop!
+The wild [VAR PKNAME(0000)] used Throat Chop!
+The opposing [VAR PKNAME(0000)] used Throat Chop!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Throat Chop!
+[VAR PKNAME(0000)] used Pollen Puff!
+The wild [VAR PKNAME(0000)] used Pollen Puff!
+The opposing [VAR PKNAME(0000)] used Pollen Puff!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Pollen Puff!
+[VAR PKNAME(0000)] used Anchor Shot!
+The wild [VAR PKNAME(0000)] used Anchor Shot!
+The opposing [VAR PKNAME(0000)] used Anchor Shot!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Anchor Shot!
+[VAR PKNAME(0000)] used Psychic Terrain!
+The wild [VAR PKNAME(0000)] used Psychic Terrain!
+The opposing [VAR PKNAME(0000)] used Psychic Terrain!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Psychic Terrain!
+[VAR PKNAME(0000)] used Lunge!
+The wild [VAR PKNAME(0000)] used Lunge!
+The opposing [VAR PKNAME(0000)] used Lunge!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Lunge!
+[VAR PKNAME(0000)] used Fire Lash!
+The wild [VAR PKNAME(0000)] used Fire Lash!
+The opposing [VAR PKNAME(0000)] used Fire Lash!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Fire Lash!
+[VAR PKNAME(0000)] used Power Trip!
+The wild [VAR PKNAME(0000)] used Power Trip!
+The opposing [VAR PKNAME(0000)] used Power Trip!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Power Trip!
+[VAR PKNAME(0000)] used Burn Up!
+The wild [VAR PKNAME(0000)] used Burn Up!
+The opposing [VAR PKNAME(0000)] used Burn Up!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Burn Up!
+[VAR PKNAME(0000)] used Speed Swap!
+The wild [VAR PKNAME(0000)] used Speed Swap!
+The opposing [VAR PKNAME(0000)] used Speed Swap!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Speed Swap!
+[VAR PKNAME(0000)] used Smart Strike!
+The wild [VAR PKNAME(0000)] used Smart Strike!
+The opposing [VAR PKNAME(0000)] used Smart Strike!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Smart Strike!
+[VAR PKNAME(0000)] used Purify!
+The wild [VAR PKNAME(0000)] used Purify!
+The opposing [VAR PKNAME(0000)] used Purify!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Purify!
+[VAR PKNAME(0000)] used Revelation Dance!
+The wild [VAR PKNAME(0000)] used Revelation Dance!
+The opposing [VAR PKNAME(0000)] used Revelation Dance!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Revelation Dance!
+[VAR PKNAME(0000)] used Core Enforcer!
+The wild [VAR PKNAME(0000)] used Core Enforcer!
+The opposing [VAR PKNAME(0000)] used Core Enforcer!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Core Enforcer!
+[VAR PKNAME(0000)] used Trop Kick!
+The wild [VAR PKNAME(0000)] used Trop Kick!
+The opposing [VAR PKNAME(0000)] used Trop Kick!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Trop Kick!
+[VAR PKNAME(0000)] used Instruct!
+The wild [VAR PKNAME(0000)] used Instruct!
+The opposing [VAR PKNAME(0000)] used Instruct!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Instruct!
+[VAR PKNAME(0000)] used Beak Blast!
+The wild [VAR PKNAME(0000)] used Beak Blast!
+The opposing [VAR PKNAME(0000)] used Beak Blast!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Beak Blast!
+[VAR PKNAME(0000)] used Clanging Scales!
+The wild [VAR PKNAME(0000)] used Clanging Scales!
+The opposing [VAR PKNAME(0000)] used Clanging Scales!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Clanging Scales!
+[VAR PKNAME(0000)] used Dragon Hammer!
+The wild [VAR PKNAME(0000)] used Dragon Hammer!
+The opposing [VAR PKNAME(0000)] used Dragon Hammer!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Dragon Hammer!
+[VAR PKNAME(0000)] used Brutal Swing!
+The wild [VAR PKNAME(0000)] used Brutal Swing!
+The opposing [VAR PKNAME(0000)] used Brutal Swing!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Brutal Swing!
+[VAR PKNAME(0000)] used Aurora Veil!
+The wild [VAR PKNAME(0000)] used Aurora Veil!
+The opposing [VAR PKNAME(0000)] used Aurora Veil!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Aurora Veil!
+[~ 2780]
+[~ 2781]
+[~ 2782]
+[~ 2783]
+[~ 2784]
+[~ 2785]
+[~ 2786]
+[~ 2787]
+[~ 2788]
+[~ 2789]
+[~ 2790]
+[~ 2791]
+[~ 2792]
+[~ 2793]
+[~ 2794]
+[~ 2795]
+[~ 2796]
+[~ 2797]
+[~ 2798]
+[~ 2799]
+[~ 2800]
+[~ 2801]
+[~ 2802]
+[~ 2803]
+[~ 2804]
+[~ 2805]
+[~ 2806]
+[~ 2807]
+[~ 2808]
+[~ 2809]
+[~ 2810]
+[~ 2811]
+[~ 2812]
+[~ 2813]
+[~ 2814]
+[~ 2815]
+[VAR PKNAME(0000)] used Shell Trap!
+The wild [VAR PKNAME(0000)] used Shell Trap!
+The opposing [VAR PKNAME(0000)] used Shell Trap!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Shell Trap!
+[VAR PKNAME(0000)] used Fleur Cannon!
+The wild [VAR PKNAME(0000)] used Fleur Cannon!
+The opposing [VAR PKNAME(0000)] used Fleur Cannon!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Fleur Cannon!
+[VAR PKNAME(0000)] used Psychic Fangs!
+The wild [VAR PKNAME(0000)] used Psychic Fangs!
+The opposing [VAR PKNAME(0000)] used Psychic Fangs!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Psychic Fangs!
+[VAR PKNAME(0000)] used Stomping Tantrum!
+The wild [VAR PKNAME(0000)] used Stomping Tantrum!
+The opposing [VAR PKNAME(0000)] used Stomping Tantrum!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Stomping Tantrum!
+[VAR PKNAME(0000)] used Shadow Bone!
+The wild [VAR PKNAME(0000)] used Shadow Bone!
+The opposing [VAR PKNAME(0000)] used Shadow Bone!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Shadow Bone!
+[VAR PKNAME(0000)] used Accelerock!
+The wild [VAR PKNAME(0000)] used Accelerock!
+The opposing [VAR PKNAME(0000)] used Accelerock!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Accelerock!
+[VAR PKNAME(0000)] used Liquidation!
+The wild [VAR PKNAME(0000)] used Liquidation!
+The opposing [VAR PKNAME(0000)] used Liquidation!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Liquidation!
+[VAR PKNAME(0000)] used Prismatic Laser!
+The wild [VAR PKNAME(0000)] used Prismatic Laser!
+The opposing [VAR PKNAME(0000)] used Prismatic Laser!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Prismatic Laser!
+[VAR PKNAME(0000)] used Spectral Thief!
+The wild [VAR PKNAME(0000)] used Spectral Thief!
+The opposing [VAR PKNAME(0000)] used Spectral Thief!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Spectral Thief!
+[VAR PKNAME(0000)] used Sunsteel Strike!
+The wild [VAR PKNAME(0000)] used Sunsteel Strike!
+The opposing [VAR PKNAME(0000)] used Sunsteel Strike!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Sunsteel Strike!
+[VAR PKNAME(0000)] used Moongeist Beam!
+The wild [VAR PKNAME(0000)] used Moongeist Beam!
+The opposing [VAR PKNAME(0000)] used Moongeist Beam!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Moongeist Beam!
+[VAR PKNAME(0000)] used Tearful Look!
+The wild [VAR PKNAME(0000)] used Tearful Look!
+The opposing [VAR PKNAME(0000)] used Tearful Look!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Tearful Look!
+[VAR PKNAME(0000)] used Zing Zap!
+The wild [VAR PKNAME(0000)] used Zing Zap!
+The opposing [VAR PKNAME(0000)] used Zing Zap!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Zing Zap!
+[VAR PKNAME(0000)] used Nature’s Madness!
+The wild [VAR PKNAME(0000)] used Nature’s Madness!
+The opposing [VAR PKNAME(0000)] used Nature’s Madness!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Nature’s Madness!
+[VAR PKNAME(0000)] used Multi-Attack!
+The wild [VAR PKNAME(0000)] used Multi-Attack!
+The opposing [VAR PKNAME(0000)] used Multi-Attack!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Multi-Attack!
+[~ 2876]
+[~ 2877]
+[~ 2878]
+[~ 2879]
+[VAR PKNAME(0000)] used Mind Blown!
+The wild [VAR PKNAME(0000)] used Mind Blown!
+The opposing [VAR PKNAME(0000)] used Mind Blown!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Mind Blown!
+[VAR PKNAME(0000)] used Plasma Fists!
+The wild [VAR PKNAME(0000)] used Plasma Fists!
+The opposing [VAR PKNAME(0000)] used Plasma Fists!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Plasma Fists!
+[VAR PKNAME(0000)] used Photon Geyser!
+The wild [VAR PKNAME(0000)] used Photon Geyser!
+The opposing [VAR PKNAME(0000)] used Photon Geyser!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Photon Geyser!
+[~ 2892]
+[~ 2893]
+[~ 2894]
+[~ 2895]
+[~ 2896]
+[~ 2897]
+[~ 2898]
+[~ 2899]
+[~ 2900]
+[~ 2901]
+[~ 2902]
+[~ 2903]
+[~ 2904]
+[~ 2905]
+[~ 2906]
+[~ 2907]
+[~ 2908]
+[~ 2909]
+[~ 2910]
+[~ 2911]
+[~ 2912]
+[~ 2913]
+[~ 2914]
+[~ 2915]
+[VAR PKNAME(0000)] used Zippy Zap!
+The wild [VAR PKNAME(0000)] used Zippy Zap!
+The opposing [VAR PKNAME(0000)] used Zippy Zap!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Zippy Zap!
+[VAR PKNAME(0000)] used Splishy Splash!
+The wild [VAR PKNAME(0000)] used Splishy Splash!
+The opposing [VAR PKNAME(0000)] used Splishy Splash!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Splishy Splash!
+[VAR PKNAME(0000)] used Floaty Fall!
+The wild [VAR PKNAME(0000)] used Floaty Fall!
+The opposing [VAR PKNAME(0000)] used Floaty Fall!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Floaty Fall!
+[VAR PKNAME(0000)] used Pika Papow!
+The wild [VAR PKNAME(0000)] used Pika Papow!
+The opposing [VAR PKNAME(0000)] used Pika Papow!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Pika Papow!
+[VAR PKNAME(0000)] used Bouncy Bubble!
+The wild [VAR PKNAME(0000)] used Bouncy Bubble!
+The opposing [VAR PKNAME(0000)] used Bouncy Bubble!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Bouncy Bubble!
+[VAR PKNAME(0000)] used Buzzy Buzz!
+The wild [VAR PKNAME(0000)] used Buzzy Buzz!
+The opposing [VAR PKNAME(0000)] used Buzzy Buzz!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Buzzy Buzz!
+[VAR PKNAME(0000)] used Sizzly Slide!
+The wild [VAR PKNAME(0000)] used Sizzly Slide!
+The opposing [VAR PKNAME(0000)] used Sizzly Slide!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Sizzly Slide!
+[VAR PKNAME(0000)] used Glitzy Glow!
+The wild [VAR PKNAME(0000)] used Glitzy Glow!
+The opposing [VAR PKNAME(0000)] used Glitzy Glow!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Glitzy Glow!
+[VAR PKNAME(0000)] used Baddy Bad!
+The wild [VAR PKNAME(0000)] used Baddy Bad!
+The opposing [VAR PKNAME(0000)] used Baddy Bad!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Baddy Bad!
+[VAR PKNAME(0000)] used Sappy Seed!
+The wild [VAR PKNAME(0000)] used Sappy Seed!
+The opposing [VAR PKNAME(0000)] used Sappy Seed!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Sappy Seed!
+[VAR PKNAME(0000)] used Freezy Frost!
+The wild [VAR PKNAME(0000)] used Freezy Frost!
+The opposing [VAR PKNAME(0000)] used Freezy Frost!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Freezy Frost!
+[VAR PKNAME(0000)] used Sparkly Swirl!
+The wild [VAR PKNAME(0000)] used Sparkly Swirl!
+The opposing [VAR PKNAME(0000)] used Sparkly Swirl!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Sparkly Swirl!
+[VAR PKNAME(0000)] used Veevee Volley!
+The wild [VAR PKNAME(0000)] used Veevee Volley!
+The opposing [VAR PKNAME(0000)] used Veevee Volley!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Veevee Volley!
+[VAR PKNAME(0000)] used Double Iron Bash!
+The wild [VAR PKNAME(0000)] used Double Iron Bash!
+The opposing [VAR PKNAME(0000)] used Double Iron Bash!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Double Iron Bash!
+[VAR PKNAME(0000)] used Max Guard!
+The wild [VAR PKNAME(0000)] used Max Guard!
+The opposing [VAR PKNAME(0000)] used Max Guard!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Max Guard!
+[VAR PKNAME(0000)] used Dynamax Cannon!
+The wild [VAR PKNAME(0000)] used Dynamax Cannon!
+The opposing [VAR PKNAME(0000)] used Dynamax Cannon!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Dynamax Cannon!
+[VAR PKNAME(0000)] used Snipe Shot!
+The wild [VAR PKNAME(0000)] used Snipe Shot!
+The opposing [VAR PKNAME(0000)] used Snipe Shot!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Snipe Shot!
+[VAR PKNAME(0000)] used Jaw Lock!
+The wild [VAR PKNAME(0000)] used Jaw Lock!
+The opposing [VAR PKNAME(0000)] used Jaw Lock!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Jaw Lock!
+[VAR PKNAME(0000)] used Stuff Cheeks!
+The wild [VAR PKNAME(0000)] used Stuff Cheeks!
+The opposing [VAR PKNAME(0000)] used Stuff Cheeks!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Stuff Cheeks!
+[VAR PKNAME(0000)] used No Retreat!
+The wild [VAR PKNAME(0000)] used No Retreat!
+The opposing [VAR PKNAME(0000)] used No Retreat!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used No Retreat!
+[VAR PKNAME(0000)] used Tar Shot!
+The wild [VAR PKNAME(0000)] used Tar Shot!
+The opposing [VAR PKNAME(0000)] used Tar Shot!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Tar Shot!
+[VAR PKNAME(0000)] used Magic Powder!
+The wild [VAR PKNAME(0000)] used Magic Powder!
+The opposing [VAR PKNAME(0000)] used Magic Powder!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Magic Powder!
+[VAR PKNAME(0000)] used Dragon Darts!
+The wild [VAR PKNAME(0000)] used Dragon Darts!
+The opposing [VAR PKNAME(0000)] used Dragon Darts!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Dragon Darts!
+[VAR PKNAME(0000)] used Teatime!
+The wild [VAR PKNAME(0000)] used Teatime!
+The opposing [VAR PKNAME(0000)] used Teatime!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Teatime!
+[VAR PKNAME(0000)] used Octolock!
+The wild [VAR PKNAME(0000)] used Octolock!
+The opposing [VAR PKNAME(0000)] used Octolock!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Octolock!
+[VAR PKNAME(0000)] used Bolt Beak!
+The wild [VAR PKNAME(0000)] used Bolt Beak!
+The opposing [VAR PKNAME(0000)] used Bolt Beak!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Bolt Beak!
+[VAR PKNAME(0000)] used Fishious Rend!
+The wild [VAR PKNAME(0000)] used Fishious Rend!
+The opposing [VAR PKNAME(0000)] used Fishious Rend!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Fishious Rend!
+[VAR PKNAME(0000)] used Court Change!
+The wild [VAR PKNAME(0000)] used Court Change!
+The opposing [VAR PKNAME(0000)] used Court Change!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Court Change!
+[VAR PKNAME(0000)] used Max Flare!
+The wild [VAR PKNAME(0000)] used Max Flare!
+The opposing [VAR PKNAME(0000)] used Max Flare!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Max Flare!
+[VAR PKNAME(0000)] used Max Flutterby!
+The wild [VAR PKNAME(0000)] used Max Flutterby!
+The opposing [VAR PKNAME(0000)] used Max Flutterby!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Max Flutterby!
+[VAR PKNAME(0000)] used Max Lightning!
+The wild [VAR PKNAME(0000)] used Max Lightning!
+The opposing [VAR PKNAME(0000)] used Max Lightning!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Max Lightning!
+[VAR PKNAME(0000)] used Max Strike!
+The wild [VAR PKNAME(0000)] used Max Strike!
+The opposing [VAR PKNAME(0000)] used Max Strike!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Max Strike!
+[VAR PKNAME(0000)] used Max Knuckle!
+The wild [VAR PKNAME(0000)] used Max Knuckle!
+The opposing [VAR PKNAME(0000)] used Max Knuckle!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Max Knuckle!
+[VAR PKNAME(0000)] used Max Phantasm!
+The wild [VAR PKNAME(0000)] used Max Phantasm!
+The opposing [VAR PKNAME(0000)] used Max Phantasm!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Max Phantasm!
+[VAR PKNAME(0000)] used Max Hailstorm!
+The wild [VAR PKNAME(0000)] used Max Hailstorm!
+The opposing [VAR PKNAME(0000)] used Max Hailstorm!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Max Hailstorm!
+[VAR PKNAME(0000)] used Max Ooze!
+The wild [VAR PKNAME(0000)] used Max Ooze!
+The opposing [VAR PKNAME(0000)] used Max Ooze!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Max Ooze!
+[VAR PKNAME(0000)] used Max Geyser!
+The wild [VAR PKNAME(0000)] used Max Geyser!
+The opposing [VAR PKNAME(0000)] used Max Geyser!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Max Geyser!
+[VAR PKNAME(0000)] used Max Airstream!
+The wild [VAR PKNAME(0000)] used Max Airstream!
+The opposing [VAR PKNAME(0000)] used Max Airstream!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Max Airstream!
+[VAR PKNAME(0000)] used Max Starfall!
+The wild [VAR PKNAME(0000)] used Max Starfall!
+The opposing [VAR PKNAME(0000)] used Max Starfall!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Max Starfall!
+[VAR PKNAME(0000)] used Max Wyrmwind!
+The wild [VAR PKNAME(0000)] used Max Wyrmwind!
+The opposing [VAR PKNAME(0000)] used Max Wyrmwind!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Max Wyrmwind!
+[VAR PKNAME(0000)] used Max Mindstorm!
+The wild [VAR PKNAME(0000)] used Max Mindstorm!
+The opposing [VAR PKNAME(0000)] used Max Mindstorm!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Max Mindstorm!
+[VAR PKNAME(0000)] used Max Rockfall!
+The wild [VAR PKNAME(0000)] used Max Rockfall!
+The opposing [VAR PKNAME(0000)] used Max Rockfall!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Max Rockfall!
+[VAR PKNAME(0000)] used Max Quake!
+The wild [VAR PKNAME(0000)] used Max Quake!
+The opposing [VAR PKNAME(0000)] used Max Quake!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Max Quake!
+[VAR PKNAME(0000)] used Max Darkness!
+The wild [VAR PKNAME(0000)] used Max Darkness!
+The opposing [VAR PKNAME(0000)] used Max Darkness!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Max Darkness!
+[VAR PKNAME(0000)] used Max Overgrowth!
+The wild [VAR PKNAME(0000)] used Max Overgrowth!
+The opposing [VAR PKNAME(0000)] used Max Overgrowth!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Max Overgrowth!
+[VAR PKNAME(0000)] used Max Steelspike!
+The wild [VAR PKNAME(0000)] used Max Steelspike!
+The opposing [VAR PKNAME(0000)] used Max Steelspike!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Max Steelspike!
+[VAR PKNAME(0000)] used Clangorous Soul!
+The wild [VAR PKNAME(0000)] used Clangorous Soul!
+The opposing [VAR PKNAME(0000)] used Clangorous Soul!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Clangorous Soul!
+[VAR PKNAME(0000)] used Body Press!
+The wild [VAR PKNAME(0000)] used Body Press!
+The opposing [VAR PKNAME(0000)] used Body Press!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Body Press!
+[VAR PKNAME(0000)] used Decorate!
+The wild [VAR PKNAME(0000)] used Decorate!
+The opposing [VAR PKNAME(0000)] used Decorate!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Decorate!
+[VAR PKNAME(0000)] used Drum Beating!
+The wild [VAR PKNAME(0000)] used Drum Beating!
+The opposing [VAR PKNAME(0000)] used Drum Beating!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Drum Beating!
+[VAR PKNAME(0000)] used Snap Trap!
+The wild [VAR PKNAME(0000)] used Snap Trap!
+The opposing [VAR PKNAME(0000)] used Snap Trap!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Snap Trap!
+[VAR PKNAME(0000)] used Pyro Ball!
+The wild [VAR PKNAME(0000)] used Pyro Ball!
+The opposing [VAR PKNAME(0000)] used Pyro Ball!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Pyro Ball!
+[VAR PKNAME(0000)] used Behemoth Blade!
+The wild [VAR PKNAME(0000)] used Behemoth Blade!
+The opposing [VAR PKNAME(0000)] used Behemoth Blade!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Behemoth Blade!
+[VAR PKNAME(0000)] used Behemoth Bash!
+The wild [VAR PKNAME(0000)] used Behemoth Bash!
+The opposing [VAR PKNAME(0000)] used Behemoth Bash!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Behemoth Bash!
+[VAR PKNAME(0000)] used Aura Wheel!
+The wild [VAR PKNAME(0000)] used Aura Wheel!
+The opposing [VAR PKNAME(0000)] used Aura Wheel!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Aura Wheel!
+[VAR PKNAME(0000)] used Breaking Swipe!
+The wild [VAR PKNAME(0000)] used Breaking Swipe!
+The opposing [VAR PKNAME(0000)] used Breaking Swipe!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Breaking Swipe!
+[VAR PKNAME(0000)] used Branch Poke!
+The wild [VAR PKNAME(0000)] used Branch Poke!
+The opposing [VAR PKNAME(0000)] used Branch Poke!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Branch Poke!
+[VAR PKNAME(0000)] used Overdrive!
+The wild [VAR PKNAME(0000)] used Overdrive!
+The opposing [VAR PKNAME(0000)] used Overdrive!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Overdrive!
+[VAR PKNAME(0000)] used Apple Acid!
+The wild [VAR PKNAME(0000)] used Apple Acid!
+The opposing [VAR PKNAME(0000)] used Apple Acid!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Apple Acid!
+[VAR PKNAME(0000)] used Grav Apple!
+The wild [VAR PKNAME(0000)] used Grav Apple!
+The opposing [VAR PKNAME(0000)] used Grav Apple!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Grav Apple!
+[VAR PKNAME(0000)] used Spirit Break!
+The wild [VAR PKNAME(0000)] used Spirit Break!
+The opposing [VAR PKNAME(0000)] used Spirit Break!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Spirit Break!
+[VAR PKNAME(0000)] used Strange Steam!
+The wild [VAR PKNAME(0000)] used Strange Steam!
+The opposing [VAR PKNAME(0000)] used Strange Steam!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Strange Steam!
+[VAR PKNAME(0000)] used Life Dew!
+The wild [VAR PKNAME(0000)] used Life Dew!
+The opposing [VAR PKNAME(0000)] used Life Dew!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Life Dew!
+[VAR PKNAME(0000)] used Obstruct!
+The wild [VAR PKNAME(0000)] used Obstruct!
+The opposing [VAR PKNAME(0000)] used Obstruct!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Obstruct!
+[VAR PKNAME(0000)] used False Surrender!
+The wild [VAR PKNAME(0000)] used False Surrender!
+The opposing [VAR PKNAME(0000)] used False Surrender!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used False Surrender!
+[VAR PKNAME(0000)] used Meteor Assault!
+The wild [VAR PKNAME(0000)] used Meteor Assault!
+The opposing [VAR PKNAME(0000)] used Meteor Assault!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Meteor Assault!
+[VAR PKNAME(0000)] used Eternabeam!
+The wild [VAR PKNAME(0000)] used Eternabeam!
+The opposing [VAR PKNAME(0000)] used Eternabeam!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Eternabeam!
+[VAR PKNAME(0000)] used Steel Beam!
+The wild [VAR PKNAME(0000)] used Steel Beam!
+The opposing [VAR PKNAME(0000)] used Steel Beam!
+[VAR TRNAME(000A)]’s [VAR PKNAME(0000)] used Steel Beam!
+~~~~~~~~~~~~~~~
