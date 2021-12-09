@@ -2,8 +2,8 @@
 This is an old version (March 2020) pokemon-sword-replay-capture-mar-2020-version of my Pokemon Replay Capture software. I built this to try my reinforcement learning environments on the real game.
 
 ## Haven't Ran this code since 2020.
-## I did updated the yolo_poke_runner.py file to use the newest yolov3 model.
-# You can edit yolo_poke_runner.py if you want to use the 2020 yolov3 model.
+I did update the yolo_poke_runner.py file to use the newest yolov3 model.
+You can edit yolo_poke_runner.py if you want to use the 2020 yolov3 model.
 
 ## Features that may exist partially or in full
 The ability to add dynamic voices to Pokemon matches. may need more work
