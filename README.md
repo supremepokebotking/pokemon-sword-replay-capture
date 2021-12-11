@@ -9,6 +9,11 @@ You can edit yolo_poke_runner.py if you want to use the 2020 yolov3 model.
 The ability to add dynamic voices to Pokemon matches. may need more work
 The ability to play wild and network fights
 
+## Current Work
+Patent granted:  https://patents.google.com/patent/US11010679B1/en
+I teach courses on Computer Vision(Free & Paid):   https://www.burningalice.com/
+I Provide bi monthly Computer Vision Puzzles:   https://www.burningalice.com/weekly
+
 ## Assume unfixed bugs. I saved this state based on a particular date and not state of the project.
 
 Need Help?
